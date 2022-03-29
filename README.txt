@@ -1,0 +1,1 @@
+This is a class project for the industrial software engineering class at IIT Tirupati. The main aim of this project is to use ML and DL to match the user reviews of apps on the google play store, to the bug reports of the corresponding apps.
