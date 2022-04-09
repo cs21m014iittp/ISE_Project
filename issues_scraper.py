@@ -18,17 +18,21 @@ def get_issues(username, repo, auth):
     auth should be a tuple of username and password.
     eventually, we'll switch it to use an oauth token
     """
-    tmpl = "https://api.github.com/repos/{username}/{repo}/issues?per_page=100"
+    tmpl = "https://api.github.com/repos/{username}/{repo}/issues?state=closed"
     url = tmpl.format(username=username, repo=repo)
     return _getter(url, auth)
 
 
-def get_all_issues(username, auth):
+def get_all_issues(username,repo, auth):
+    '''
     for repo in get_repos(username, auth):
         if not repo['has_issues']:
             continue
         for issue in get_issues(username, repo['name'], auth):
             yield issue
+    '''
+    for issue in get_issues(username, repo , auth):
+        yield issue
 
 
 def _getter(url, auth):
@@ -68,8 +72,13 @@ def _link_field_to_dict(field):
 
 if __name__ == '__main__':
     #username = raw_input("Username: ")
-    username= "pupil-labs"
-    password = getpass.getpass()
+    username= "signalapp"
+    password = "hello"
+    repo = "Signal-Android"
     auth = (username, password)
-    for issue in get_all_issues(username, auth):
-        print(issue['body'])
+    issue_list = []
+    for issue in get_all_issues(username,repo, auth):
+        issue_list.append(issue['body'])
+        print(len(issue_list))
+
+    print(len(issue_list))
