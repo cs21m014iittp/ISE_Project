@@ -1,3 +1,2 @@
-1. after a point continuation token becomes none and then it is not changing
-2.how the pagination link is being created in the Formats.Reviews.build_body() functionds
-2.what will the Request() and the _urlopen() function return
+1. what steps to follow in the classification process?
+2. how to do the BoW - stop words step
