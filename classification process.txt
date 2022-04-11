@@ -2,7 +2,6 @@
 2. remove all non english comments
 3. remove any comment of length less than 10 words
 4. convert everything to small letters
-5. BoW - stopwords
-6. manually label 500 samples
-7. build Naive Bayes classifier
-8. classify all reviews 
+5. keyword based filtering
+6. sentiment analysis 
+7. pick reviews with high negative score and low positive score.
