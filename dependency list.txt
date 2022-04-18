@@ -1,1 +1,5 @@
 1. google-play-scraper
+2. pytorch
+3. huggingface 
+4. pandas
+5. numpy
