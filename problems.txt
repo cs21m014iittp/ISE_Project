@@ -1,2 +1,3 @@
-1. what steps to follow in the classification process?
-2. how to do the BoW - stop words step
+1. the word "cell" is being used to talk about both the battery and the mobile phone in different contexts. 
+2. The word "battery" in being in different contexts. To refere to the actual battery, to refer to the battery icon, to refer to the bar showing the battery icon("battery bar") and so on.
+3. users are making comparitive comments rather than absolute 
