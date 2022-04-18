@@ -3,5 +3,4 @@
 3. remove any comment of length less than 10 words
 4. convert everything to small letters
 5. keyword based filtering
-6. sentiment analysis 
-7. pick reviews with high negative score and low positive score.
+6. manually removing any irrelevant reviews.
