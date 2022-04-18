@@ -1,1 +1,3 @@
-["button","buttons","menu","menus","list","lists","layout","item","items","bar","screen","text","image","images","ui","theme","page","themes","indicator","section","icon","sections","icons","tab","tabs","colour","color","colours","colors","logo","dropdown","form","loader","notification","window","font","field","fields","slider","checkbox","checkboxes"]
+["battery","drain","power","juice","charge","charging","drained",
+"draining","charged","heating","heat","mah","MAH","recharge","lithium","drains"
+]
