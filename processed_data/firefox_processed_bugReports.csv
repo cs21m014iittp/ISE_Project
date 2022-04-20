@@ -1,0 +1,473 @@
+1,no support for hardcoded preferences
+6,"with some input method, when inputting at the first to an input field, unexpected text is committed"
+7,webgl canvas rendering issue
+12,glean is not initialized. it may be disabled by the application. on firefox 100.0.0-beta.1
+15,nimbus debug build error on windows
+17,"wasm c standard library atan2(-1,0) is returning pi/2 instead of -pi/2"
+19,the sponsored shortcuts cannot be enabled or disabled
+23,"""security.enterprise_roots.enabled"" gets reset each restart"
+24,"pinned sites not shown when ""shortcuts"" is disabled"
+29,unable to show only pinned top sites on home screen
+35,possible epilepsy warning (ad/image flicker) 
+37,open with app doesn't work the second time
+46,"""report site issue"" string is not localizable"
+52,[crash] fenix 100.0a1 crash report [@ pldhashtable::search | mozilla::a11y::remoteaccessiblebase<t>::retrievecachedbounds ]
+70,black bar on top side of the screen while watching a video in fullscreen or pip 
+79,set close tabs on app close (not timed) (no menu) (user set automated) (android)
+83,emoji don't work on android dp2
+85,possible dead code. used method reference instead of invoking.
+86,﻿on android 13 dp2 and the context menu is completely broken
+92,"any vr video is not displayed, only sound"
+93,serious bug font rendering latest nighlty
+97, watching youtube on full screen through browser leads to android os not responding
+101,topsites / shortcut merged
+103,the contile experiment is not working on official nightly builds
+104,dark mode makes share menu titles and icon labels almost or completely invisible
+105,nightly shows %1$s in the auto-close tabs prompt
+111,malformed content reply crashes android firefox 98
+114,crash when taping a link in extension popup
+126,autofill in other apps is not working
+129,placeholder displayed instead of product name in inactive tabs auto-close prompt
+130,default top sites can be re-added to the top sites list
+132,roboto font in android 12 not rendered correctly
+134,"""clear cookies and site data"" option not displayed [ version: 98.1.1 ]"
+138,"the pinned top sites and sponsored tiles are still available after disabling the ""shortcuts"" option"
+145,sponsored shortcuts feature is active with non-targeted region set
+146,"""macy's"" sponsored shortcut redirects to ""access denied"""
+152,grey bar at the bottom of images after scrolling down in landscape
+159,firefox on android not deleting data on quit reliably
+169,homepage not fixed with all options disabled
+172,synced tabs error strings aren't mapped correctly
+181,"top site limits is not removed when page is removed, unable to add new top sites again"
+200,history is truncated if featureflag.historyimprovementfeatures is turned on
+208,"[a11y] touch target - ""show all"" item from homescreen needs to be resized"
+213,bookmarks open in non-private tabs (beta regression)
+216,select phrase and search multiple times
+217,screen flickers when reopening browser with web page open
+218,no hints are shown for required form-fields
+219,some fullscreen youtube videos shows gap (affecting 97.2.0)
+222,"cant add top site due ""top site limit reached"""
+225,unable to download images from i.ylilauta.org
+226,search select blocks new tab features
+231,irrelevant fullscreen mode
+234,"""change wallpaper"" switch off screen"
+236,opening a bookmark in private browsing mode doesn't work if there are no existing private tabs
+242,"going ""back"" after focusing address bar stays on homepage instead of returning to opened page"
+246,string/message when sending crash reports should reflect firefox instead of mozilla
+247,creating a shortcut on my homescreen
+249,a thin white line appears on scrolling when dark theme is enabled.
+252,"immersive mode in release, multiple devices (regression in 97)"
+253,firefox nightly does not respect full-screen-api.warning.timeout
+257,smooth scrolling feels heavy for small flicks
+259,opening a bookmark from a new tab homepage instead overrides your last active tab
+270,"long-pressing on text in a textarea should not only select text, but also open the on-screen keyboard"
+271,opening a top site from url bar should load it in the present tab
+272,the logo animation is not displayed right after a fresh install or update
+276, new tab or plus symbol does not open a new tab
+280,issue with multiple tabs selection - showing incorrect number of selected tabs
+293,the default search engines are not arranged alphabetically
+294,add search engine -  error icon is not displayed on error message
+297,history items are not removed properly
+302,add credit card screen focus and keyboard issues
+303,"firefox doesn't show a dedicated ""share"" button in in-app-browser in slack (but chrome does, and firefox does for other apps)"
+307,missing pictograms throughout the application on android 5 tablet
+308,suggestion arrow is not visible but the functionality is working
+310,netflix can't play title
+312,dark mode event missed on oneplus android
+313,firefox android 96.3.0 crashes when i tap the address bar or when i open a new tab
+314,previous tab reloads in a flash before next tab is painted when switching tabs by swiping 
+317,sending a local file tab to a device crashes firefox on that device.
+321,clicking any most visited site opens a new tab
+325,switching between wallpapers should be smoother
+326,the wallpapers affect changing the theme from settings
+327,changing the wallpaper affects selecting the theme in the onboarding screen
+328,sharing option doesn't work when using ff as in-app browser on android
+329,"i search a app in firefox, it cannot direct towards to open the google play store."
+334,"download.mozilla.org serving months-old download as ""latest"""
+339,selection menu doesn't opens 
+342,sharing menu in dark mode has invisible text
+343,dropdown menu not working
+344,select elements don't seem to work anymore
+345,dropdown menus don't work on firefox nightly
+348,drop down menus not working
+349,selects have stopped working in nightly
+351,/ buttons' icons in search suggestions are not visible in nightly 
+353,drop-down list won't open
+354,can't play video on ceskatelevize.cz
+356,android 12 elastic overscroll leaving page stretched
+361,the vast majority of browser icons disappeared
+364,crash at web.de
+369,"fenix does not respect browser.extra_application_id, fennec did"
+376,file type icon in downloads is the wrong colour (dark mode)
+379,url with a space is searched instead of visiting
+387,the keyboard is dismissed when trying to manually add a login after tapping the search button
+416,"account settings' ""device name"" field only shows the prefix of long device names"
+421,part of 3dot popup menu hidden
+424,permanently loading when trying to download a file.
+428,"""recently visited section"" - switching between portrait and landscape mode, the remove menu is overlapping the url bar "
+429,slash at end of hostnames opens web search instead of url
+432,fullscreen youtube video shows toolbar-sized gap
+433,auto-completed domain is not erased when user keeps typing
+436,critical status bar and navigation pill hiding kind of full screen mode
+438,bottom page menu does not remain stuck at the bottom of the screen on different webpages
+439,can't change to dark theme
+442,enabled scroll to hide changes logout+language selection in cv
+446,extension google search fixer makes something strange
+448,unable to paste in google search box without focus first
+450,"""paste as plain text"" in search box is redundant/confusing and has no effect"
+455,keyboard not active on a new tab
+456,firefox reloads the mobile site despite the desktop site switch is on
+457,folder icons not visible for bookmark folders in dark theme
+458,drag and drop is broken
+462,firefox update completely ruined the usability of the browser!  i might as well uninstall it as fight with it!
+465,"dark theme, url share menu, contrast too low"
+466,address bar is extreme slow to load.
+467,the app crashes when returning to the add-on details menu after changing device language
+480,homepage text not visible when switching backgrounds (light & dark mode)
+485,tabs view always scrolled the top
+486,favicon is not displayed in tabs/bookmarks for apple.com
+487,background color of new private window is broken
+488,"pasting ""about:<term>"" pastes only ""<term>"""
+494,widevine version is not supported anymore
+495,updated synced tabs are not displayed on android after sync
+497,"""start browsing"" button in onboarding screen not visible"
+499,about:memory is very crashy
+501,illegalstateexception: already locked by mozilla.components.service.sync.autofill.autofillcrypto
+508,unable to set punycode visible
+515,downloaded files doesn't get deleted
+518,videos not opening in full screen as landscape/horizontal always
+522,"css rule touch-action: none fails when the html element has a ""wheel"" event listener added"
+523,double tap on editable text doesn't select word
+529,(custom collection) extension install failing without any explanation
+530,"application crashes if quickly tapping the ok button on the ""add new collection"" prompt"
+531,search groups do not appear in the recently visited section until they are closed.
+532,web rtc problem firefox 95.0.0-beta6 
+533,double tap on editable text doesn't select word
+538,the same search group is displayed multiple times in the history section
+539,system allowed permissions status is not reflected in fenix settings 
+540,not have icon when adding search engine
+543,main menu is missing on fresh install/cleared storage
+549,dismissing the keyboard from the toolbar will hide the 3-dot menu
+551,test bugzilla
+558,password autofill not supported on android 7
+560,nigthly android failed to install extensions
+561,fetch + xmlhttprequest.open stall for 30+ seconds after browser is minimized
+582,history has wrong order 
+583,page title in tabs tray gets replaced by url when forward/back navigating
+584,long file names are truncated in download notifications
+590,turning off search term groups not reflected in tabs tray
+591,keyboard opening when top site opens
+593,native crash of /vendor/bin/hw/android.hardware.bluetooth@1.0-service.sim
+596,crash after restoring from miui local backup 
+600, sometime unable to scroll pages 
+601,incorrect youtube sizing in landscape
+604,grey area appears at the bottom of the screen when popup is opened and address bar is hidden
+612,crashed on multi tasks
+614,sending local pdf tab from windows pc to android causes android app to crash
+615,issue #19783 closed without resolution
+617,tab group titles are the wrong colour when in private mode
+618,"when a web site supports pwa, it is impossible to create a home screen shortcut on android with any specific url of this web site"
+627,tab and app crash reporter not working on huawei mediapad m2 (android 5.1.1)
+629,unloading tabs for no apparent reason
+632,reader view button never shows up in first go
+633,setting of videos (youtube) not working
+634,"the ""remove"" button has scrollable text when using holding gesture in ""recent searches"" categories"
+635,text is unreadable
+640,sharesheet labels do not have enough contrast in dark mode
+648,homepage/address bar opens new tab
+649,saved logins not accessible if using pattern to unlock
+650,autoplay settings are ignored at amp.reddit.com
+651,touch-action:none doesn't stop overscroll that hides navigation bar
+652,"""my account"" page can be scrolled causing a visual defect on nightly gv 96.0a1"
+654,"the icon for ""close and erase history"" hasn't been updated with the proton iconography"
+656,inconsistent behaviour of hamburger menu
+662,"cannot install on fly fs526 power plus 2, android 7"
+663,rendering broken in 94.1.2
+664,"when visiting a page with bangla text, the url doesn't render that text in the url box"
+666,"browsing data (history, open tabs) not deleted after closing firefox app"
+667," the ""14 days"" section for the flat list in history is not implemented"
+668,pull to refresh (and scroll) issues on reuters.com
+673,safe browsing does not block malware page
+675,firefox 94 android uses multiple codecs is that the correct behavior?
+676,download stops after closing its tab in private window
+677,push notification not working latest nighlty 
+678,"history delete button labeled as ""more options"" for screenreader"
+681,the inactive tabs survey is not translated in japanese
+684,black/blank page after restoring pwa(?) using task switcher
+685,fennec crashes opening new tab
+686,incorrect visual alignment of home screen section titles and their 'show all' subtitles
+687,constant life in color popup
+689,tapping a search group item should switch to the previously opened website
+690,unable to dismiss the context menu when long tapping on the tabs counter on android 5.1.1
+691,collapsing/expanding inactive tabs list doesn't work after switching the orientation of the device 
+692,improperly displayed tabs tray more options menu after rotation
+698,the learn more link in studies is broken
+700,back button history doesn't work
+704,"desktop mode scaling too large on android tablets, but window.devicepixelratio remains the same"
+706,exit while loading webpage
+708,its not possible to use fenix-94.1.1-arm(...)apk with hardware keyboard only - no ctrl+l shortcut [tv sticks problem]
+711,always zooms in on form input field when focused
+712,page remains stretched after overscroll on android 12
+713,some glyphs are vertically shifted with colr fonts
+714,html input required attribute
+716,private tabs are shown as normal tabs
+719,keyboard stays open when opening a new tab
+720,inactive tabs survey title overlaps the close button with russian locale settings
+722,tabs.query doesn't return unloaded tabs
+725,(critical) update/save password dialog getting popuped for each character typed or deleted in password field
+731,incorrect video scale
+741,tab tray does not focus on last viewed tab
+742,abc
+745,inactive tabs cfr misplaced in the tabs tray
+751,recent search groups sometimes become unbundled in the history view
+754,opening a link from a history search group should switch to the open tab if available
+755,selecting search group in jump back in switches active tab
+757,"multiple links can be opened at once from ""thought provoking stories"""
+761,other tabs title shows up when deleting a tab group (regression)
+766,inactive tabs prompt is redisplayed after dismissing by turning on auto close
+767,grid-style tabs don't respect dark theme
+768,private browsing description has no padding on start/end
+770,"on new tab, page scroll requires extra tap"
+771,synced history button is not implemented in the history section
+772,flat list of all history for given timeframe is inconsistently displayed
+773,"""google account"" header improperly displayed in ""manage my google account"" page."
+774,"overlapped text within the ""account"" page on youtube"
+775,the individual searches (sites) are displayed in folders in recent searches section
+777,the download list doesn't refresh accordingly when deleting files
+778,firefox nightly google play channel does not update with nightly builds
+783,"""new entry"" button does not appear anymore in password manager "
+787,incognito tab description text is not centered
+790,"crashes frequently when making new search from address bar in a currently loaded tab, when opening a link in a new tab"
+796,http://[::]:8000/ link in firefox for android is searched by google instead of going to said site
+798,"when deleting a folder or a website from history, it doesn't disappear until re-entering the history section "
+807,open in app not working on second use
+821,website can access phone camera
+825,users are not unenrolled from experiments at individual opt-out
+827,typing address manually crashes
+828,tab view doesn't scroll to focus tab anymoree
+832,webpages don't load when using a wifi connection
+834,"filename in ""open"" pdf dialog overflows screen"
+835,going to home screen from addloginfragment/editloginfragment causes memory leak
+838,single searches are not displayed in the recent searches section while enrolled in the experiments/rollout
+843,customize homepage button and menu entry still lead to customize instead of homepage settings
+844,“jump back in” cards do not always have titles
+845,the inactive tabs area is scrollable entirely
+847,“thought-provoking stories” is wrongly enabled by default in firefox beta 94 for english-us
+848,"html5 ""required"" no longer shows a popup window with message."
+856,reader mode not available on blogs created with writefreely
+861,add padding to private home screen
+865,block all cookies feature doesn't work
+866,text background for inactive tabs cfr overlays tip background
+867,inactive tabs cfr is not dismissed when navigating to settings.
+868,inactive tabs cfr does not always point to the inactive tabs section.
+869,add login button can't be scrolled to
+870,"if the only tabs are a search group, ""other tabs"" erroneously appears under the group, even though there are no other tabs"
+873,missing lower gray border for inactive tabs
+874,"the ""tab closed"" notification overlaps the tab closing icon (cross)"
+879,tab group - an ungrouped search tab always stays at the bottom of the tab list
+880,buttons in darkreader's settings page are not responsive anymore
+883,unable to install add-on
+885,desktop mode stops working after tab is unloaded from memory and reloaded
+892,close button in tab tray list view makes it too easy to close tab by accident and removes useful information 
+894,video jitter when speed increases to 1.5x or above
+909,firefox for android doesn't show search suggestion with custom search engine
+910,pocket stories horizontal shadows are clipped
+912,enabling firebase push for local build 
+917,passwords & usernames don't autofill
+925,tab closed undo button covers the last tab
+926,two media tab items injump back in are shown for media related tab after reopening the app
+927,thumbnail images on jump back in do not persist after closing/reopening fenix
+932,"[bug]:""recently visited"" section"
+936,category/group titles in the normal tab tray dissapear when private mode is selected
+937,refresh indicator stuck on screen
+943,add login form can create logins that look like duplicates
+947,recently visited pages don't show up in url bar search
+949,unable to do anything else while bookmark is being deleted
+951,application crashes when tapping on the delete button for recently visited websites in history
+952,firefox reload page when upload photo
+953,"nullpointerexception: getqueryparameter call at mozilla.components.feature.search.ext.searchenginekt, parsesearchterms, searchengine.kt:9 if the search key in the search engine appears twice"
+955,writing in the address bar crashes firefox
+958,scrolling slowly through onboarding displays an empty banner at the bottom of the page
+960,recently-added bookmarks are hard to use with a screen reader
+961,password manager does not register the password for twitter
+962,when dark theme/ private mode is enabled the icons for bookmarks folders & downloads are not visible
+963,"""open links from clipboard"" widget got covered up by ""choose search engine"" widget which is automatically displayed"
+979,jump back-section disappears and appears while switching to regular window from private window
+980,private window button is faded in private window while using in dark mode 
+981, unable to save or view created avatar on charat.me
+983,
+984,white bar above browser toolbar when scrolling up and down on homescreen
+988,toolbar is not reset after opening and then closing the facebook messenger app overlay 
+990,"tab grouping and ""open link in new tab"" behave unexpectedly"
+991,add logins duplicate login not checked on hostname edit
+992,add logins dupe username error flashes then disappears
+993,add logins empty username inconsistency
+1000,customize home button duplication
+1004,no open tabs in tab tray
+1007,pinch to zoom lag
+1009,back button long press doesn't show history list on nightly 94a android
+1010,opening a new custom tab and closing it closes the private tab
+1017,firefox crahses when downloading a file that is larger than the available empty space of a device
+1018,sharing image results in file format not supported.
+1025,"talkback reads the sync button in tabs tray as ""add tab"" or ""add private tab"""
+1026," the ""learn more"" button in studies opens a ""page not found"" link on support.mozilla.org in a random language"
+1038,firefox beta android no update to 93 via play store
+1039,talkback gesture navigation does not cycle through all 3-dot menu items if toolbar is set to bottom
+1040,"""tab sent"" popup has red background if there was error before retrying"
+1042,malformed content reply crashes android firefox 92
+1043,@media(hover: hover) is true but should be false
+1050,"closing bottom tab hides the next tab, not tappable until popup fades"
+1053,main menu auto-closes after force stopping
+1054,crashes for chinese but not for english on turning off studies
+1055,menu displaying bug
+1056,etp shield icon is displayed on custom tabs & pwa toolbar
+1057,the options from the connection and tracking protection menu are not inverted
+1058,the blue dot is not displayed on the navbar icon when autoplay is disabled
+1060,a blue dot is displayed when turning off etp for a website
+1061,the first etp encounter info pop-up is not displayed
+1065,firefox crashes when a tab opened in grid tab style.
+1067,in new tab we cannot swipe to change tab
+1068,not secured connection(icon) is displayed before changing to secured for every website
+1069,ui elements in settings
+1070,"after ""remove account"" the application returns to homescreen instead of turn on sync view"
+1072,fenix performance tasks fail because artifact formats changed to .zst
+1080,css animation is slowing down the whole system
+1081,password leaked in my button when android autocompletes my jira account under a webpage.
+1082,viewing provided page crashes tab
+1083,scrolling provided page crashes tab
+1085,fenix 93.0a1 crash report [@ mozilla::dom::element::getclientarearect ]
+1086,monospace is tooooo small or sans is tooooo big.
+1089,crash when turning on/off experiments if using languages which don't use dots.
+1090,scrolling of flutter 2.x apps does not work but works fine in google chrome and in the desktop version of firefox
+1095,the microphone icon is not updated on the search bar widget
+1099,video autoplays despite settings to block audio and video
+1107,certain text in the settings menu is truncated when the device font size is set to very large
+1108,firefox account push events are ignored
+1121,ublock origin crashes firefox
+1123,3 dots menu doesn't work on websites when using bottom toolbar.
+1125,wechat pay opens a about:blank tab
+1126,hyphen-wrapping words doesn't disable ligatures
+1127,text cursor handle is white
+1136,bad tabs number postion
+1137,add to home screen works on some devices but doesn't work in some others
+1142,reader mode returning to default configuration after the tab is reloaded due to memory issues
+1143,desktop site view disabled after the tab is reloaded due to memory issues. 
+1145,android.permission.write_external_storage grant exception
+1152,cannot open google play store properly when clicking button in the browsing page
+1153,the chevron from the collapsed inactive tabs section is partially overlaid by the new tab button if tabs tray is scrollable
+1158,autofill not working with bitwarden
+1168,canvas rendered text gets affected by text sizing features
+1172,copy text
+1180,scroll position in tab list does not show active tab
+1181,no webpage image loading after latest update.
+1184,[experiment] [crash] the app crashes when navigating back to the settings menu after disabling studies
+1186,"broken ""whats new"" link"
+1187,file upload button does not work
+1189,opening and closing a tab from a collection crashes with history metadata
+1190,adding tabs from a collection move to inactive section immediately
+1192,reopened tabs lose position in tab switcher interface
+1196, crash to black screen on windows 7
+1198,wrong behaviour when tapping url bar fenix nighlty
+1199,(copy) performing a search on selected text is failing the second time
+1205,images not rendered in firefox 91 on android 5-6
+1206,global autoplay blocking of audio & video not respected
+1208,status bar icons (top of screen) cannot be seen when fenix powers webview in external apps (kuroba/boost/telegram)
+1210,inactive tabs menu reopening after app restart 
+1213,zooming and pan issue
+1218,little black bar at bottom of home screen
+1222,black screen of death
+1227,failed to query add ons after adding custom collection
+1228,mismatch between firefox-ci-tc.services and github apk files
+1229,"tabs tray ""sync"" button shouldn't be displayed if the user isn't signed in to sync or needs to reconnect to sync"
+1230,blinking screen when load page froster.org on android firefox 
+1231,"with animations disabled, ""past explorations""  glitching upon collapse"
+1232,unable to run unit tests from command line when using shorthand
+1239,wi
+1241,"custom tabs ""copy url"" overflow menu feature not working"
+1246,flickering black box appears randomly on firefox nightly for android while browsing
+1247,twitch site doesn't plays videos (on mobile data)
+1248,text in textarea disappears while typing
+1250,bookmarklet unable to modify dom of a page it opened.
+1251,inactive tabs do not have a grey border 
+1254,can't login to subway app
+1256,tab content turns completely black and freezes
+1257,new tabs don't load.
+1258,black rectangular artefacts on latest firefox nightly
+1260,screen flickering
+1261,
+1264,cookies leak from embedded web views
+1265,inactive tab title can sometimes be missing
+1268,html validation message doesn't show
+1273,adblock plus and other add-ons (still) not supported
+1279,failed to install add-on
+1281,failed to query installed add-ons
+1285,drm protected content on apple tv+ does not play
+1287, button text in document being replaced with password text
+1289,duplicated results in search suggestions
+1290,autofill other apps not working
+1291,newly created tabs show up as inactive when added to the tabs tray
+1294,"inactive tabs closing despite ""close tabs manually"" being selected"
+1295,fenix drops scroll events on polygon.com with pull-to-refresh enabled
+1298,reduced audio quality on soundcloud when tab does not have focus
+1300,tabs older than 30 days old were auto-deleted when updating to nightly version 92.0a1 (build #2015825739) even with tabs set to only be closed manually
+1301,reports of lost tabs in latest nightly
+1306,collection open into inactive tabs
+1307,"in tab tray, inactive tabs should be listed above active tabs"
+1308,closed tab reopens at the top of tab tray
+1309,opening the tabs tray scrolls to the wrong position when inactive tabs are present
+1312,inactive tabs auto-closing also when not requested
+1317,downloads are overwritten
+1318, recently saved showing desktop download files
+1321,closing the browser causes keyboard to popup
+1322,cannot change name or save location for download files
+1324,"firefox for android does not remove the active pseudo class from button once the button is pressed, held for some time and then released"
+1326,support favicon svg when add to home screen
+1327,typing in address bar does not always suggest bookmarks or synced tabs
+1328,security lock icon menu not showing
+1331,mergify ci queue is blocked when following instructions to run ci on contributor prs
+1333,'jump back in' does not obey feature flags
+1336,"tabs unexpectedly re-used in normal browsing mode if ""open links in a private tab"" is enabled"
+1337,tabs icon misses one tap (need to tap twice) after sending tab to another device
+1338,improve intent handling
+1343,unable to install any xpi (signed) on ff nightly (android)
+1345,settingsprivacytest.launchlinksinprivatetoggleoffstatedoesntchangetest fails locally on pixel 2 (smaller screen devices?)
+1347,japanese input methods does not work  correctly on ublock origin
+1353,url history suggestions somehow disappear until restart
+1354,samsung dex bar confuses ff when it calclates viewport size
+1358,spike in search.default_engine.submission_url errors (invalid overflow)
+1363,uncontrolled/fast scrolling on zoom-in gesture on sites with zoom locked
+1364,crash when some older versions of chrome share links with firefox
+1365,status bar icons not visible in dark theme custom tabs
+1366,startpage.com custom search engine's favicon missing
+1367,file input does not open with mime specifier in accept
+1369,firefox 90.1.2 crashes the phone with some websites
+1377,"""browser.search.with_ads"" and ""browser.search.ad_clicks"" are not generated for yahoo in the metrics ping"
+1383,device name defaults when re-launding firefox on android
+1387,intermittent publishing failure: googleapiclient.errors.httperror
+1389,topsites page count not updating 
+1390,scan button not shown for rtl locales
+1393,everytime when i open the message page of tweakers.net firefox nightly on android crashes
+1395,deleting from blank tab mru gets urls and site names out of sync
+1399,recently saved section should not show items older than 10 days
+1407,"string ""deleting browsing data..."" is incorrectly translated in russian locale"
+1408,firefox crash on https://webcamtoy.com/
+1409,browser.tabs.query does not list tabs that are not loaded
+1410,pages reload when browser returns to focus. all content lost
+1414,flip rotation on fullscreen from landscape-primary to secondary takes no effect on screen.orientation
+1417,undo close tab prevent fast closing tabs
+1419,"missing ✓ check mark symbol when selecting: open tabs, history items, bookmarked items"
+1421,ui tests unexpectedly not run if ci if outside the ui package
+1423,video playback issue on youtube 360 video in firefox android
+1427,etp icon not displayed correctly when the toolbar is set to top on tablets
+1428,device continually fails to get a web push subscription
+1429,all private tabs destroyed because of custom tabs activity
+1430,swping on the addressbar does not work on the start (new) tab 
+1432,"toolbar on the homescreen ignores setting of the gesture ""scroll to hide toolbar"""
+1433,url suggestions and autocomplete fail intermittently
+1436,text input gets deleted while typing in facebook and twitter posts.
+1439,cannot navigate to about: pages
+1440,undo close tab blocks tab acccess in list view
+1442,"shadows in ""recently saved"" section on home screen are truncated"
+1443,the wrong favicon icon is displayed when first accessing de.wikipedia.org
+1444,undo button name is not translated in spanish
+1448,weird rendering on android 5
