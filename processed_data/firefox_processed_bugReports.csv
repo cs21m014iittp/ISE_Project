@@ -17,8 +17,7 @@
 79, set close tabs on app close not timed no menu user set automated android
 83, emoji dont work on android dp2
 85, possible dead code used method reference instead of invoking
-86, ﻿on android 13 dp2 and the context menu is completely broken
-91,
+86, on android 13 dp2 and the context menu is completely broken
 92, any vr video is not displayed only sound
 93, serious bug font rendering latest nighlty
 97,  watching youtube on full screen through browser leads to android os not responding
@@ -265,9 +264,9 @@
 835, going to home screen from addloginfragmenteditloginfragment causes memory leak
 838, single searches are not displayed in the recent searches section while enrolled in the experimentsrollout
 843, customize homepage button and menu entry still lead to customize instead of homepage settings
-844, “jump back in” cards do not always have titles
+844, jump back in cards do not always have titles
 845, the inactive tabs area is scrollable entirely
-847, “thoughtprovoking stories” is wrongly enabled by default in firefox beta 94 for englishus
+847, thoughtprovoking stories is wrongly enabled by default in firefox beta 94 for englishus
 848, html5 required no longer shows a popup window with message
 856, reader mode not available on blogs created with writefreely
 859, the jump back in contextual hint is not displayed
@@ -332,7 +331,7 @@
 1038, firefox beta android no update to 93 via play store
 1039, talkback gesture navigation does not cycle through all 3dot menu items if toolbar is set to bottom
 1040, tab sent popup has red background if there was error before retrying
-1041, проблеми
+1041, 
 1042, malformed content reply crashes android firefox 92
 1043, mediahover hover is true but should be false
 1047, cannot search for phrases containing dots or colon
@@ -485,7 +484,7 @@
 1410, pages reload when browser returns to focus all content lost
 1414, flip rotation on fullscreen from landscapeprimary to secondary takes no effect on screenorientation
 1417, undo close tab prevent fast closing tabs
-1419, missing ✓ check mark symbol when selecting open tabs history items bookmarked items
+1419, missing  check mark symbol when selecting open tabs history items bookmarked items
 1420,  
 1421, ui tests unexpectedly not run if ci if outside the ui package
 1423, video playback issue on youtube 360 video in firefox android
@@ -620,7 +619,7 @@
 1688, buttons are not displayed properly after updating to 8911
 1689, edit bookmark items have same accessibility description
 1693, synced tabs list doesnt scroll all the way down if not expanded
-1694,  “select credit card” prompt doesn’t show up anymore
+1694,  select credit card prompt doesnt show up anymore
 1696, exit from reconnect to sync after you remove the account
 1697, improperly displayed open links in apps banner in landscape view
 1700, cant download pdf on this specific url
@@ -728,7 +727,7 @@
 1898, black boxes when scrolling
 1901, desktop site menu item is clipped
 1902, consider increasing contrast ratio of dropdown symbol in collections for dark theme
-1905,documentdocumentelementclientheight手机浏览器不能得到隐藏工具栏后的可视区域高度
+1905,documentdocumentelementclientheight
 1910, kasperky did not install
 1911, failed to obtain authentication
 1912,webpages  reload after losing focus rather than redisplay
@@ -834,7 +833,7 @@
 2095,new scrolling menu is terrible 
 2096, firefox logo and private browsing button is not visible after onboarding
 2097, not obvious that three dot menu is scrollable
-2100, telefonlarda tam ekran tasarım sızısı fullscreen design issue on phones
+2100, telefonlarda tam ekran tasarm szs fullscreen design issue on phones
 2102, changing fenixs default search enginesearch suggestions  files under the build folder are generated and should not be edited
 2106, the quit option is no longer available in the new page menu
 2107, find a crash that affects usage very much
@@ -882,7 +881,7 @@
 2201, page moves when find in bar page bar is shownhidden
 2202,  tabs not closing on swipe close 
 2206, userjs cannot be used
-2207, webrtc control doesnʼt work
+2207, webrtc control doesnt work
 2209, top sites  renaming on the second page not possible
 2212, top and bottom margin is not aligned after fullscreen video
 2213, typing domain in urlbar results in leak to google search
@@ -1173,7 +1172,6 @@
 2872, img file is saved with a bin extension dropping img
 2873, cant login with firefox for android to openmediavault
 2876,pull to refresh drag and drop on ddg maps triggers pull to refresh
-2877,很多论坛无法使用搜索功能
 2878, couldnt use some addons in private browsing mode 
 2880, a page with big amount of content do not loads properly with firefox mobile
 2882,  send to device requires several additional actions
@@ -1262,7 +1260,7 @@
 3042, search engines reset during major version updates
 3043, cant select from dropdown in amo in mobile mode
 3046, fill link from clipboard has too little whitespacepadding
-3049,open tabs syncing from ios to android don´t work properly
+3049,open tabs syncing from ios to android dont work properly
 3050, playpause youtube video from headphones stopped working
 3051, norriqdk is always returning 404 for geckoview based browsers
 3053, fix strict mode violation on nightly caused by orgmozillafenixcomponentsanalyticsgetexperiments
@@ -1342,9 +1340,9 @@
 3187, securityenterpriserootsenabled doesnt work if opening a page from command line
 3191, firefox forcing private mode home screen after opening link in private tab
 3192,  select tabs from tabs tray is not translated in many languages
-3193,improperly displayed ⋮ more options while in tab select mode
+3193,improperly displayed  more options while in tab select mode
 3194,new tab fab disappears after rotation
-3195,share all tabs missing from the pb tabs tray ⋮ overlay
+3195,share all tabs missing from the pb tabs tray  overlay
 3197,closing the last private tab via contextual menu doesnt display the confirmation snackbar
 3198, the buttons from connect another device  send to device are joined together
 3199, dynamic manifestjson for spa not recognized
@@ -1637,7 +1635,7 @@
 3695, android 11 recent apps show two fenix entries
 3700, synchronised tabs panel is always empty private sync server 5000 tabs
 3701, error page is not dark when rfp is enabled
-3702,image search options isnt displayed in the addons subsection from the ⋮ main menu and cant reverse search any image
+3702,image search options isnt displayed in the addons subsection from the  main menu and cant reverse search any image
 3704, a white screen is displayed for 10s when trying to access the tangerineca login page
 3705, taptozoom is harder to activate
 3707, native crashes while browsing
@@ -1664,7 +1662,7 @@
 3747, custom search providers deleted after upgrade to 81112 build 2015767043
 3751, copy url to clipboard
 3753, download finished x covered by text in german
-3754, service worker doesn’t works with specific webpage
+3754, service worker doesnt works with specific webpage
 3755, googlecomtr  maps  fenix crashes when using share button
 3756, navigation bar freezes after choosing images
 3757, svg image incorrectly renders text as a solid black shape
@@ -1741,7 +1739,7 @@
 3871, gap in the ui above website headers
 3872, no favicon for some sites
 3873, the first rename collection works subsequent renames do not
-3874, push notificación dont work
+3874, push notificacin dont work
 3875, bottom nav bar looks skewed in landscape mode in rtl
 3878, number of tabs is wrong when opening new tab
 3879, delete button in multi select three dot menu is not red 
@@ -1954,7 +1952,7 @@
 4235, clicking link while menu bar is hidden makes page jump
 4236,new setting scroll to hide toolbar not working for bottom bar 
 4238, pull to refresh not triggered when iframes are present in the top of a webpage
-4239,missing bullets ● in the details of video background play fix 
+4239,missing bullets  in the details of video background play fix 
 4240, booking site of my university encounters an error
 4241, regression weird animation is displayed when closing the active tab the next tab flashes for 1 sec
 4242,google search fixer  googles voice search icon disappears
@@ -2126,7 +2124,7 @@
 4515, illegalstateexception  cannot perform this action on a sealed instance
 4516, when the phone wakes up after sleeping the keyboard on the search screen is dismissed
 4517, on new tab page with the keyboard up tapping on the search provider icon dismisses the keyboard
-4518, search engine options are shown with ↖︎ append arrow icons
+4518, search engine options are shown with  append arrow icons
 4519, go back on website with an invalid security certificate fails when there is no tab history
 4520, can not go onto any insecure website
 4521, share to desktop functionality missing in initial share dialog on current version
@@ -2161,7 +2159,7 @@
 4568, amo says not available on firefox for android for addons that are available
 4570, unclosing fenix tabs jumps to top of page doesnt restore position
 4572, instant crash on firefox nightly latest update
-4573, android toolbar is all gray after starting to type and then using □ button and focusing fenix again
+4573, android toolbar is all gray after starting to type and then using  button and focusing fenix again
 4578, send to device is offline with active network connection
 4580,page menu not loading when private windows open from links in other apps
 4584, regression  7905  unable to open a tab in background
@@ -2354,7 +2352,7 @@
 4930, ublock import filed is not scrollable
 4932, files displayed in the downloads section after being canceled
 4933, open in app opens the chrome browser if pocket onboarding is not doneskipped
-4935, this app wasnt found in the list of installed apps toast when fenix settings » notifications clicked
+4935, this app wasnt found in the list of installed apps toast when fenix settings  notifications clicked
 4936, downloaded files are listed in downloads after being deleted from the device storage
 4937, screenshots are not allowed in pb when the app is in recent apps view 
 4938, notifications entry in settings doesnt do anything
@@ -2414,12 +2412,12 @@
 5028, website  address bar on fenix cant hide automatically
 5032, system animation settings are not respected
 5034, the open tab visual indicator from a different device isnt displayed in suggestions
-5035,fnx31947 ⁃  weird behaviour of some websites on zoom
-5037,fnx31945 ⁃  hint on main page can be displayed in two lines
-5038,fnx31944 ⁃  aboutfragment title is briefly displayed when opening about firefox preview from settings
-5039,fnx31943 ⁃  reader view appearance tab does not go away after clicking 3 dot menu with top toolbar
-5041,fnx31941 ⁃  seek feature on videos does not work if the video is not loaded
-5042,fnx31940 ⁃  logo shouldnt fade out when scrolling as it doesnt snap away when you scroll a little bit
+5035,fnx31947   weird behaviour of some websites on zoom
+5037,fnx31945   hint on main page can be displayed in two lines
+5038,fnx31944   aboutfragment title is briefly displayed when opening about firefox preview from settings
+5039,fnx31943   reader view appearance tab does not go away after clicking 3 dot menu with top toolbar
+5041,fnx31941   seek feature on videos does not work if the video is not loaded
+5042,fnx31940   logo shouldnt fade out when scrolling as it doesnt snap away when you scroll a little bit
 5044, android toolbar uses white background even when the icons are white too
 5045,home screen clipboard quick actions dont appear on android 5 and 6 devices
 5047, cannot download refererpassword protected file
@@ -2440,7 +2438,7 @@
 5069, new search experience the autofill arrow does nothing
 5118, progressive web app pwa in firefox android with single sign on sso
 5162, pwa sites from the top sites do not open after starting the browser
-5300,fnx320478 ⁃  increase some items sizes from the ublock origin page
+5300,fnx320478   increase some items sizes from the ublock origin page
 5301, tab history still visible after clearing all history
 5302, on google play in french for firefoxfenix beta screenshots and legends are mixed up
 5303, prefill arrow is displayed for the first search suggestion
@@ -2453,271 +2451,271 @@
 5316, multidrm multikey multiperiod video cant be played
 5318, spam mails
 5320, fix failing deeplink ui tests
-5327,fnx14660 ⁃ library leak leakactivity leaked
-5328,fnx14659 ⁃  homeactivity doonpredraw runnable memory leak
-5329,fnx14658 ⁃  coordinatorlayout leaked
-5330,fnx14657 ⁃  savedloginsauthfragment leaked
-5332,fnx14651 ⁃  keyboard does not close on opening sent tab
-5334,fnx14649 ⁃  collections  three dot menu  open tabs even when there is only a single tab
-5335,fnx14647 ⁃  new search experience pressing enter on an empty toolbar query puts the browser in a weird state
+5327,fnx14660  library leak leakactivity leaked
+5328,fnx14659   homeactivity doonpredraw runnable memory leak
+5329,fnx14658   coordinatorlayout leaked
+5330,fnx14657   savedloginsauthfragment leaked
+5332,fnx14651   keyboard does not close on opening sent tab
+5334,fnx14649   collections  three dot menu  open tabs even when there is only a single tab
+5335,fnx14647   new search experience pressing enter on an empty toolbar query puts the browser in a weird state
 5336, tab tray  save to collection  swipe down opens a translucent black overlay 
-5337,fnx14643 ⁃  video can be played when eme content is disabled
-5338,fnx14641 ⁃  videos are playable when the requiring approval is not present
-5340,fnx14638 ⁃  dismissed download completedcanceled notification reappears
+5337,fnx14643   video can be played when eme content is disabled
+5338,fnx14641   videos are playable when the requiring approval is not present
+5340,fnx14638   dismissed download completedcanceled notification reappears
 5349, videos are marked as unavailable with eme enabled
-5351,fnx14623 ⁃  upgrade from python2 to python3
-5353,fnx14621 ⁃  when youtube video played on 175 sound gets distorted
-5355,fnx14618 ⁃  long press to select does not work in textboxes in certain cases
-5356,fnx14617 ⁃  crash on opening link from external app
-5357,fnx14616 ⁃  incorrect information in play store about addons
-5358,fnx14615 ⁃  changing the download folder from aboutconfig doesnt work
-5359,fnx14614 ⁃  new search experience keyboard pops up on exiting history in home screen
-5360,fnx14613 ⁃  keyboard does not pop up on editing bookmarks
-5361,fnx14612 ⁃  new search experience keyboard remains even after leaving app
-5362,fnx14611 ⁃   is there a communication kit towards fenix new users or volunteers
-5364,fnx14610 ⁃  tabs dont reload an existing tab when switching from another tab or less often than currently
-5365,fnx14609 ⁃  tab tray unnecessary animationrepaint when opening tab tray
-5369,fnx14604 ⁃  private keyboard not enabled in new search experience 
+5351,fnx14623   upgrade from python2 to python3
+5353,fnx14621   when youtube video played on 175 sound gets distorted
+5355,fnx14618   long press to select does not work in textboxes in certain cases
+5356,fnx14617   crash on opening link from external app
+5357,fnx14616   incorrect information in play store about addons
+5358,fnx14615   changing the download folder from aboutconfig doesnt work
+5359,fnx14614   new search experience keyboard pops up on exiting history in home screen
+5360,fnx14613   keyboard does not pop up on editing bookmarks
+5361,fnx14612   new search experience keyboard remains even after leaving app
+5362,fnx14611    is there a communication kit towards fenix new users or volunteers
+5364,fnx14610   tabs dont reload an existing tab when switching from another tab or less often than currently
+5365,fnx14609   tab tray unnecessary animationrepaint when opening tab tray
+5369,fnx14604   private keyboard not enabled in new search experience 
 5370, page will always scroll to showhide dynamic toolbar even if page should not scroll eg drawing touchbased games
-5373,fnx14599 ⁃  recommended prepush hook oftens fails to push server timeout
-5374,fnx14597 ⁃  share button in custom tab in feedly is too big
-5376,fnx14595 ⁃  two finger scrolling selects instead of scrolling on chrome os
-5377,fnx14594 ⁃  cant select url
-5381,fnx14587 ⁃  viewing an image zooming in and swiping up displays white behind the hidden url box
-5382,fnx14586 ⁃  swipe tab switching works from the middle of the screen and not from the address bar when in split screen mode
-5383,fnx14585 ⁃  access denied when trying to view unit test failure results
-5390,fnx14573 ⁃  unstable scolling when toolbar position is set to top
-5391,fnx14572 ⁃  url of page at the top in reader mode should be a link to the original
-5392,fnx14570 ⁃  reader view controls still displayed if we open an external link
-5393,fnx14569 ⁃  private browsing homescreen displayed when tapping view after creating a collection from tabs tray
-5394,fnx14568 ⁃  crash when using the tab tray to switch from normal to private browsing javalangillegalstateexception swiperefresh must not be null
-5399,fnx14563 ⁃  sometimes blank history menu view after clearing all history
-5401,fnx14561 ⁃  gamepad is only detected after unplugging and plugging back in axes work but buttons do not
-5402,fnx14560 ⁃  back button does not work on ubologger
-5404,fnx14557 ⁃  google forms links open the google play store services
-5405,fnx14556 ⁃  pinch to zoom doesnt work on simultaneous touch but work with delayed touches
-5407,fnx14554 ⁃  duckduckgo disappeared after changing system language to simplified chinese
-5408,fnx14548 ⁃  strictmode violation on cold startup for sharedprefs in leanplummetricsserviceinit
-5409,fnx14543 ⁃  update prepushrecommendedsh
-5410,fnx14541 ⁃  prevent interacting with sentry when sentry should be disabled
-5413,fnx14537 ⁃  validate pwa manifest folder
-5414,fnx14536 ⁃  tracking protection exception for a page with an error gets saved as website
-5416,fnx14532 ⁃  webpages take a lot of time to load when ublock origin is enabled
-5417,fnx14529 ⁃  save to collection button displayed in private mode when not in view in normal mode
-5418,fnx14524 ⁃  pressing back to close keyboard also closes url bar
-5419,fnx14523 ⁃  sync doesnt work if the app was launched with internet connection off
-5420,fnx14522 ⁃  search engines gone and cant be readded
-5421,fnx14521 ⁃  when toolbar is hiding the header content jumps
-5423,fnx14518 ⁃  search query remains in address bar even after navigating to another website
+5373,fnx14599   recommended prepush hook oftens fails to push server timeout
+5374,fnx14597   share button in custom tab in feedly is too big
+5376,fnx14595   two finger scrolling selects instead of scrolling on chrome os
+5377,fnx14594   cant select url
+5381,fnx14587   viewing an image zooming in and swiping up displays white behind the hidden url box
+5382,fnx14586   swipe tab switching works from the middle of the screen and not from the address bar when in split screen mode
+5383,fnx14585   access denied when trying to view unit test failure results
+5390,fnx14573   unstable scolling when toolbar position is set to top
+5391,fnx14572   url of page at the top in reader mode should be a link to the original
+5392,fnx14570   reader view controls still displayed if we open an external link
+5393,fnx14569   private browsing homescreen displayed when tapping view after creating a collection from tabs tray
+5394,fnx14568   crash when using the tab tray to switch from normal to private browsing javalangillegalstateexception swiperefresh must not be null
+5399,fnx14563   sometimes blank history menu view after clearing all history
+5401,fnx14561   gamepad is only detected after unplugging and plugging back in axes work but buttons do not
+5402,fnx14560   back button does not work on ubologger
+5404,fnx14557   google forms links open the google play store services
+5405,fnx14556   pinch to zoom doesnt work on simultaneous touch but work with delayed touches
+5407,fnx14554   duckduckgo disappeared after changing system language to simplified chinese
+5408,fnx14548   strictmode violation on cold startup for sharedprefs in leanplummetricsserviceinit
+5409,fnx14543   update prepushrecommendedsh
+5410,fnx14541   prevent interacting with sentry when sentry should be disabled
+5413,fnx14537   validate pwa manifest folder
+5414,fnx14536   tracking protection exception for a page with an error gets saved as website
+5416,fnx14532   webpages take a lot of time to load when ublock origin is enabled
+5417,fnx14529   save to collection button displayed in private mode when not in view in normal mode
+5418,fnx14524   pressing back to close keyboard also closes url bar
+5419,fnx14523   sync doesnt work if the app was launched with internet connection off
+5420,fnx14522   search engines gone and cant be readded
+5421,fnx14521   when toolbar is hiding the header content jumps
+5423,fnx14518   search query remains in address bar even after navigating to another website
 5425, youtube fullscreen video cut in the bottom
 5431, historymultiselectthree dot menuopen in new tab opens up the tab tray breaks ui afterwards
-5433,fnx14499 ⁃  hide all individual 3dot icons during multiselect for bookmarks
-5435,fnx14489 ⁃  remoteserviceexception bad notification for startforeground javautilconcurrentmodificationexception
-5436,fnx14487 ⁃  links opened from addon pages do not show up in history
-5437,fnx14486 ⁃  the dialog for deleting the last tab in a collection is missing
-5438,fnx14485 ⁃  toolbar becomes blank when opening plaintext file
+5433,fnx14499   hide all individual 3dot icons during multiselect for bookmarks
+5435,fnx14489   remoteserviceexception bad notification for startforeground javautilconcurrentmodificationexception
+5436,fnx14487   links opened from addon pages do not show up in history
+5437,fnx14486   the dialog for deleting the last tab in a collection is missing
+5438,fnx14485   toolbar becomes blank when opening plaintext file
 5439, the download fails if the download folder isnt available with a null download failed dialogue in the notification tray
-5441,fnx14481 ⁃  the share label is overlapping the x icon when sharing a collection
-5442,fnx218898 ⁃ flash when opening app from recent screen or turning on the screen
-5443,fnx218897 ⁃  tab can be added to collection in private mode through long tapping
+5441,fnx14481   the share label is overlapping the x icon when sharing a collection
+5442,fnx218898  flash when opening app from recent screen or turning on the screen
+5443,fnx218897   tab can be added to collection in private mode through long tapping
 5445, tabs are displayed multiple times in recent history popup when navigating on some pages
 5446, keyboard some times does not appear
-5447,fnx218894 ⁃  save to collection button animates down from top of tab tray before tabs are shown
-5449,fnx218893 ⁃  comboboxes look strange
-5456,fnx218886 ⁃  slight flicker when selecting a bookmark
-5457,fnx218885 ⁃  missing socorro links for native crashes
+5447,fnx218894   save to collection button animates down from top of tab tray before tabs are shown
+5449,fnx218893   comboboxes look strange
+5456,fnx218886   slight flicker when selecting a bookmark
+5457,fnx218885   missing socorro links for native crashes
 5463, two firefox tasks in recent app switcher permanently on android 11 beta briefly on cold startup in android 10
-5467,fnx14437 ⁃  opening ublock origin settings from outside of addons submenu toggles private mode
+5467,fnx14437   opening ublock origin settings from outside of addons submenu toggles private mode
 5469, crash  mozillaappservicesloginsloginsstorageexception at mozillaappservicesloginsrustrusterrorintoexceptionrusterrorkt4 
-5471,fnx218872 ⁃ cant interact for a couple of seconds  after dismissing the tabs tray while in multiselect mode
-5472,fnx14431 ⁃  help button opens firefox for android beta support in fenix nightly
+5471,fnx218872  cant interact for a couple of seconds  after dismissing the tabs tray while in multiselect mode
+5472,fnx14431   help button opens firefox for android beta support in fenix nightly
 5473, clear key drm video cant be played with eme enabled
-5474,fnx218871 ⁃  system share sheet shown when using context menu to share link
+5474,fnx218871   system share sheet shown when using context menu to share link
 5477, search widget creates a backstack when returning to homescreen multiple times
-5478,fnx218867 ⁃  search value gets stored invisibly
+5478,fnx218867   search value gets stored invisibly
 5479, multicodec widevine video cant be played
-5481,fnx218866 ⁃  no haptic feedback when long pressing forward button
-5482,fnx14409 ⁃  leanplum deviceid not being saved
+5481,fnx218866   no haptic feedback when long pressing forward button
+5482,fnx14409   leanplum deviceid not being saved
 5483, increased memory usage when using private mode unknown measurementbrokerservice
 5486, native crash while toggling reader mode 
-5488,fnx218860 ⁃  with etp disabled the trackers are still displayed as blocked
-5493,fnx218855 ⁃  send tab from pc desnt work 
+5488,fnx218860   with etp disabled the trackers are still displayed as blocked
+5493,fnx218855   send tab from pc desnt work 
 5494, reader mode theme change sometimes does not work
-5496,fnx14389 ⁃  javaioioexception not a readable directory datauser0orgmozillafenixcachemozacbrowserthumbnailsthumbnails
+5496,fnx14389   javaioioexception not a readable directory datauser0orgmozillafenixcachemozacbrowserthumbnailsthumbnails
 5497, scrolling between text selection actions creates offset for selection cursor
-5498,fnx218850 ⁃  very high memory usage  intermittent
-5499,fnx218848 ⁃  website header gets detached
+5498,fnx218850   very high memory usage  intermittent
+5499,fnx218848   website header gets detached
 5500, desktop mode toggle doesnt save its state correctly
 5501, scroll bad performance
 5502, copy action bar  search only works once
-5503,fnx218844 ⁃  cannot scroll to submit button on bugzilla
-5504,fnx218843 ⁃  select html tag keep showing up if dismissed without an option chosen
+5503,fnx218844   cannot scroll to submit button on bugzilla
+5504,fnx218843   select html tag keep showing up if dismissed without an option chosen
 5507, null title for youtube videos shared from firefox nightly
-5513,fnx218834 ⁃  runtimeexception cannot confirmdismiss a prompt twice
-5515,fnx218831 ⁃  cant add heisede shortcut to homescreen
-5516,fnx218829 ⁃  on private mode new tab option opens new non priavate tab
+5513,fnx218834   runtimeexception cannot confirmdismiss a prompt twice
+5515,fnx218831   cant add heisede shortcut to homescreen
+5516,fnx218829   on private mode new tab option opens new non priavate tab
 5517, switching between tabs by swiping works in fullscreenvideomode
 5519,android 5 keyboard displayed on when tapping back from edit logins
 5520, synced tabs displayed when pull to refresh if the page wasnt closed  open tabs disabled in account settings
 5521, remove x close button from history navigation bar
-5522,fnx14345 ⁃  selection is drawn on top of fenix ui
-5524,fnx218821 ⁃  page splashes after the browser is restored from recents
+5522,fnx14345   selection is drawn on top of fenix ui
+5524,fnx218821   page splashes after the browser is restored from recents
 5525,opening a new private tab via contextual menu after close  undo action deletes the tab 
 5526, you can save bookmarks without titles via editing
 5527, deleting folderswebsites still results in a deleting selected folders popup in bookmarks
 5528, you can place a bookmarks folder inside itself deleting it after this does not work
-5529,fnx218816 ⁃ bookmark selection checks not displayed after deleting an item via edit mode
+5529,fnx218816  bookmark selection checks not displayed after deleting an item via edit mode
 5530, copy action bar remains on screen after enabling reader mode without any selection
-5531,fnx218814 ⁃  the content of web pages is not updated when opened in the collections
+5531,fnx218814   the content of web pages is not updated when opened in the collections
 5532,graphic corruptionglitch on pages 
 5533, save to collection button in tabs tray too bright in dark mode
-5535,fnx218810 ⁃  long page titlesurls in tab history have no padding on the right
-5536,fnx14326 ⁃  visible delay to visual completeness after foregrounding
+5535,fnx218810   long page titlesurls in tab history have no padding on the right
+5536,fnx14326   visible delay to visual completeness after foregrounding
 5537, on some sites videos fullscreen strangely 
 5540, downloading fails if download folder doesnt exist in storage
-5541,fnx218805 ⁃  firstpartyisolate potentially interfering with ublock origin
-5543,fnx218803 ⁃  swipe to switch tabs animation jumps
-5544,fnx218802 ⁃ leanplum trackingprotectionsetting attribute remains set to standard
-5545,fnx218800 ⁃ leanplum defaultbrowser attribute remains empty
-5547,fnx218797 ⁃  crash javalangclasscastexception at orgmozillafenixcomponentstoolbarbrowsertoolbarviewexpandbrowsertoolbarviewkt3
-5548,fnx218796 ⁃  tab not restored when you cancel swipe to delete the last tab from a collection 
-5549,fnx218795 ⁃ tabs tray save to collection displayed for private tabs
-5551,fnx218793 ⁃  etp off and shield not visible on webcompatcom
-5552,fnx218792 ⁃ leanplum searchwidgetinstalled attribute remains set to false
-5553,fnx218791 ⁃  search engine settings are reset upon update
-5554,fnx218790 ⁃  attempting to scroll within a textarea sometimes slides from one tab to the next
-5555,fnx14291 ⁃  creating a collection from tabs tray doesnt display the first letter with a capital letter
+5541,fnx218805   firstpartyisolate potentially interfering with ublock origin
+5543,fnx218803   swipe to switch tabs animation jumps
+5544,fnx218802  leanplum trackingprotectionsetting attribute remains set to standard
+5545,fnx218800  leanplum defaultbrowser attribute remains empty
+5547,fnx218797   crash javalangclasscastexception at orgmozillafenixcomponentstoolbarbrowsertoolbarviewexpandbrowsertoolbarviewkt3
+5548,fnx218796   tab not restored when you cancel swipe to delete the last tab from a collection 
+5549,fnx218795  tabs tray save to collection displayed for private tabs
+5551,fnx218793   etp off and shield not visible on webcompatcom
+5552,fnx218792  leanplum searchwidgetinstalled attribute remains set to false
+5553,fnx218791   search engine settings are reset upon update
+5554,fnx218790   attempting to scroll within a textarea sometimes slides from one tab to the next
+5555,fnx14291   creating a collection from tabs tray doesnt display the first letter with a capital letter
 5557,mozilla nightly gets displayed instead of mozilla beta while using remote debugging via usb
 5560, unable to go to zeroconfbonjourlocal hosts
-5564,fnx215669 ⁃  leak after downloading a file simpledownload dialogfragment leaked
+5564,fnx215669   leak after downloading a file simpledownload dialogfragment leaked
 5568, logins synchronise logins does not follow proper animation
 5569, language submenu opens differently and takes time to open
-5570,fnx215661 ⁃  intermittent savedloginsstoragecontrollertest when fetching the login list then update the state in the store  javalangassertionerror verification failed call 1 of 1 syncableloginsstorage2listany was not called
-5571,fnx215659 ⁃  save to collection button in home screen even with 0 tabs
-5572,fnx215657 ⁃  fenix connects to incomingtelemetrymozillaorg with all data collection toggles turned off
-5573,fnx215656 ⁃  select indicator not showing in tab tray
-5574,fnx215655 ⁃  back button does not work on some tabs
-5575, search privately for focus browser is not set as primary option in text selection context menu  ⋮ more
+5570,fnx215661   intermittent savedloginsstoragecontrollertest when fetching the login list then update the state in the store  javalangassertionerror verification failed call 1 of 1 syncableloginsstorage2listany was not called
+5571,fnx215659   save to collection button in home screen even with 0 tabs
+5572,fnx215657   fenix connects to incomingtelemetrymozillaorg with all data collection toggles turned off
+5573,fnx215656   select indicator not showing in tab tray
+5574,fnx215655   back button does not work on some tabs
+5575, search privately for focus browser is not set as primary option in text selection context menu   more
 5576, you can add a website to homescreen with a whitespace name
 5577, tab tray opens fullscreen even with few tabs
-5578,fnx215651 ⁃  translate release locales to android locale codes
-5579,fnx215650 ⁃  redundant save to collection button in tab tray
+5578,fnx215651   translate release locales to android locale codes
+5579,fnx215650   redundant save to collection button in tab tray
 5580, crash when using qr code at synced tabs level kotlinkotlinnullpointerexception at mozillacomponentsservicefxamanagerfxaaccountmanagerpostauthenticatedfxaaccountmanagerkt36
 5582, long history list created with the same url on googles homepage hamburger menu
-5587,fnx215642 ⁃  opening a file from a conversion service suggests incorrect apps to open with
-5588,fnx215641 ⁃  editing a text input box causes swipe to change tabs gesture to be triggered
-5589,fnx215640 ⁃  elements contained in the area of the bottom bar cant be tapped sometimes
+5587,fnx215642   opening a file from a conversion service suggests incorrect apps to open with
+5588,fnx215641   editing a text input box causes swipe to change tabs gesture to be triggered
+5589,fnx215640   elements contained in the area of the bottom bar cant be tapped sometimes
 5593, scrolling on amazon wish list keeps jumping back up
-5596,fnx215634 ⁃  tab selected state new tab reappear after moving
-5597,fnx14210 ⁃  opening google forms link in firefox nightly opens google play services page in the play store
+5596,fnx215634   tab selected state new tab reappear after moving
+5597,fnx14210   opening google forms link in firefox nightly opens google play services page in the play store
 5598, three dot menu in bookmarks page does not reappear after deselecting in multi select
 5599, hide sign in with your camera on devices without camera
 5600, reader mode  save to collection saves the moz extension link
 5601, mozextension add to homescreen crashes the launcher
 5603, download size for smaller items is shown as 000mb
-5605,fnx215623 ⁃  feature flag tab history
+5605,fnx215623   feature flag tab history
 5606, long press on startpage view image anonymously crashes browser
 5607,broken tabs selection counter
-5614,fnx215615 ⁃  tab history vibrates in position very fast on swipe up flick up
+5614,fnx215615   tab history vibrates in position very fast on swipe up flick up
 5615, location doesnt stay selected
-5617,fnx215612 ⁃  white screen when launching pwa
+5617,fnx215612   white screen when launching pwa
 5618, the addons arrow icon on the main menu is pointing in the wrong direction
 5621, crash in pwa  javalangillegalargumentexception value to select is not in list
-5622,fnx215606 ⁃  dismissing a pwa from recent apps also closes private mode
+5622,fnx215606   dismissing a pwa from recent apps also closes private mode
 5623, link autofill in search bar also fill non links in some cases
-5624,fnx215603 ⁃  weird behaviour after deleting tab in tab tray multi select
-5625,fnx215604 ⁃  you have to be extremely precise to click the save to collection button in tab tray
-5626,fnx215602 ⁃  keyboard stays up on tab switching using swipe
-5627,fnx215601 ⁃ crash code reportalways crash
-5628,fnx215600 ⁃  deeplink scheme for nightly no longer works
+5624,fnx215603   weird behaviour after deleting tab in tab tray multi select
+5625,fnx215604   you have to be extremely precise to click the save to collection button in tab tray
+5626,fnx215602   keyboard stays up on tab switching using swipe
+5627,fnx215601  crash code reportalways crash
+5628,fnx215600   deeplink scheme for nightly no longer works
 5629, keyboard does not show after switching to a private tab and back
 5631,cant download large files from thinkbroadbandcom using a google pixel 3a android 10
 5632, in dark mode the active tab from recent history popup is barely visible
 5633, recent history popup remains displayed when pressing the device home button or recent apps
-5634,fnx215595 ⁃ drop 3 digit numbers from the tabs trays open tabs counter
+5634,fnx215595  drop 3 digit numbers from the tabs trays open tabs counter
 5635,open tabs number padding issues
 5636, the favicons from the recent history popup flicker while the page is loading
 5637, the active tab is highlighted in the recent history popup only after the page is loaded
 5638, show collection saved snackbar above fab
 5641, embed element for pdf
-5642,fnx215585 ⁃  parent tab not selected when closing last private tab with a nonprivate parent
+5642,fnx215585   parent tab not selected when closing last private tab with a nonprivate parent
 5644, incorrect tab shown at top when switching between tabs
 5651,crash code reportalways crash
 5653, speededup videos have distorted audio
-5655,fnx215569 ⁃  phantom ticks in save to collection
-5657,fnx215567 ⁃  dragding on a text area triggers tab switch
+5655,fnx215569   phantom ticks in save to collection
+5657,fnx215567   dragding on a text area triggers tab switch
 5658, crash on opening search settings
 5659, a dropdown prompt in focus will automatically be opened on opening the tab
-5665,fnx215559 ⁃  save tabs to collections button remains when we close all tabs
+5665,fnx215559   save tabs to collections button remains when we close all tabs
 5666, confusing message after installing addons
 5667, privacy possumreport a bug opens a customtab but not really
 5675, intermittent debug test javalangnoclassdeffounderror could not initialize class androidxtestinternalutilchecks
-5677,fnx215547 ⁃  privacy possum currently seems to be unmaintained
+5677,fnx215547   privacy possum currently seems to be unmaintained
 5678, search context menu option does not work inside addons
-5680,fnx215543 ⁃  visual issue when swiping to delete folder  cancel
+5680,fnx215543   visual issue when swiping to delete folder  cancel
 5681,  etp shield popup content is being read twice
 5683, tab tray ignores developer options for animation speed
 5684, nosuchmethoderror no virtual method requestpinappwidget
 5685, no menudownload option when holding down on images
-5695,fnx215527 ⁃  constantly flickering icons in tab history for a loading page
-5696, hardcoded report site issue… in a websites menu
-5699,fnx215521 ⁃  snackbars created by context menu items are shown on top of toolbar
+5695,fnx215527   constantly flickering icons in tab history for a loading page
+5696, hardcoded report site issue in a websites menu
+5699,fnx215521   snackbars created by context menu items are shown on top of toolbar
 5701, synced tabs menu is blank despite being signed in to firefox account
-5702,fnx215513 ⁃  undo close tab popup obscures the bottom bar
+5702,fnx215513   undo close tab popup obscures the bottom bar
 5703, firefox rotates pictures uploaded to the web
-5706,fnx215508 ⁃  it is strange how it sorts tabs in swiping address bar vs tabs tray
+5706,fnx215508   it is strange how it sorts tabs in swiping address bar vs tabs tray
 5707, closing last private tab does not show undo snackbar when on browserfragment
 5708, search widget hint shows up above the tabs tray
 5711, blocking tracking content only in private tabs shows etp off on normal tabs
 5713, url autocomplete stops working on some synced bookmarks
-5714,fnx215500 ⁃  runtimereload call by ublock origin does not reload the extension and shows zerotab
+5714,fnx215500   runtimereload call by ublock origin does not reload the extension and shows zerotab
 5715, source unknown for name appopened and name appreceivedintent event type pings
 5716,fenix doesnt allow the url form of domainport
 5717, no tracking protection icon shown after clicking on report site issue
-5718,fnx215496 ⁃ please reopen 12530
+5718,fnx215496  please reopen 12530
 5721, missing page content until scroll on offerup list page after navigation back from listing
-5723,fnx215489 ⁃  glitches with the swipe to delete gesture action for bookmarks
+5723,fnx215489   glitches with the swipe to delete gesture action for bookmarks
 5724, add create account on the the sign in page on fenix
-5725,fnx215487 ⁃  breaking interaction between pip and pwas
+5725,fnx215487   breaking interaction between pip and pwas
 5726, rawgithubusercontent is unthemeable
 5728, weird glean sentry crashes suggesting code is being optimized away
-5735,fnx215475 ⁃  when there is one search engine height is lower than 48dp
+5735,fnx215475   when there is one search engine height is lower than 48dp
 5738, zooming in on certain media like gifs cannot be reversed
-5739,fnx215472 ⁃  thumbnails are shown on the wrong tab when interacting with them undo select etc
+5739,fnx215472   thumbnails are shown on the wrong tab when interacting with them undo select etc
 5741, cant download images that require cookies to be passed to the request cloudflare
-5742,fnx215467 ⁃  cant interact toolbar after closing private tab until private tab closed disappears
-5744,fnx215466 ⁃  restore closed tab snackbar not visible
-5751,fnx215459 ⁃  cannot open file after download is complete
+5742,fnx215467   cant interact toolbar after closing private tab until private tab closed disappears
+5744,fnx215466   restore closed tab snackbar not visible
+5751,fnx215459   cannot open file after download is complete
 5757, test sync to jira
 5760, able to save duplicate credentials from the same site
-5761,fnx215450 ⁃  app link redirecting to play store rather than to installed app
-5762,fnx215449 ⁃  failed to query addons
-5764,fnx215445 ⁃  closed tab comes back when navigating back to home screen
-5766,fnx215441 ⁃  the ripple for the font size option in the accessibility menu is not fully displayed
+5761,fnx215450   app link redirecting to play store rather than to installed app
+5762,fnx215449   failed to query addons
+5764,fnx215445   closed tab comes back when navigating back to home screen
+5766,fnx215441   the ripple for the font size option in the accessibility menu is not fully displayed
 5767, opened tabs in tabs tray information can be viewed through screen recorder
 5768, inconsistent recent app view when having private tabs tray opened
 5769, somes open in browser from custom tab creates a new instance of fenix in the task switcher
-5770,fnx215435 ⁃  tab counter is not updated when opening a tab from custom tab
+5770,fnx215435   tab counter is not updated when opening a tab from custom tab
 5772, tab switching popup is too tall on narrowandtall phones
 5774, openstreetmap wiki slow rendering
 5775, scrolling on nightly and beta is somewhat laggy and choppy not smooth but the stable version scrolls just fine but doesnt follow device theme dark mode
 5776, beta is noticably laggy
-5780,fnx215423 ⁃  long presssing mailto link does not show context menu
+5780,fnx215423   long presssing mailto link does not show context menu
 5784, whiteonwhite buttons in system navigation bar
 5785, custom tab switch causes crash
 5786, unnecessary context menu options for find in pagelong click
 5787, tab count switching animation is not activated when it is 0
 5788, exiting search widget can land you in settings
 5789, search widget text does not change on changing language
-5790,fnx215412 ⁃  website not trimmed from url in tab tray
+5790,fnx215412   website not trimmed from url in tab tray
 5791, lost passwordslogins sync since switch from preview
 5794, keyboard leaves behind black area
 5796, different behaviour when opening bookmarks
 5797, websites typed into address bar are redirected to an app instead of staying in fenix
 5798, close private tabs from lockscreen while media is playing leaves an empty notification
-5801,fnx216921 ⁃  weird graphic glitch on the  button of the tabs tray
-5802,fnx215398 ⁃  android device not connecting on talkyio with video and on apprtc with video and audio
-5803,fnx216920 ⁃  reader mode settings stays on when opening another page
+5801,fnx216921   weird graphic glitch on the  button of the tabs tray
+5802,fnx215398   android device not connecting on talkyio with video and on apprtc with video and audio
+5803,fnx216920   reader mode settings stays on when opening another page
 5807, cannot open tabs from onboarding screen
 5809, searchshortcutsselected metric is missing data review
 5810, decentraleyes addon shows extra number in brackets
@@ -2725,80 +2723,80 @@
 5813, no user facing error when sync fails due to network connectivity
 5814, delay when loading homescreen content
 5817, unable to install profiler addon
-5818,fnx215374 ⁃  addons are not visible
-5819,fnx215373 ⁃  edit toolbar string and search suggestion text not aligned
+5818,fnx215374   addons are not visible
+5819,fnx215373   edit toolbar string and search suggestion text not aligned
 5820, fenix opens on flashing home screen with no collection before displaying collections
-5821,fnx215370 ⁃  regression cant download from blob url anymore
+5821,fnx215370   regression cant download from blob url anymore
 5822, last synced time changes but bookmarks not synced
 5823, fenixs open links in app preference is not respecting the androids open by default preference
 5830, regression  tab crash when pressing reply box on 17thshardcom
 5836, leanplum event for installing addon gets tracked twice
-5838,fnx215347 ⁃  pressing back after signing in should take back to settings
+5838,fnx215347   pressing back after signing in should take back to settings
 5839, intermittent completely white tab or visually wrong tab page content after closing a tab
-5845,fnx215340 ⁃ floating tabs tray overlay after rotation
-5848,fnx215337 ⁃  severe startup lags two firefox apps in app switcher
+5845,fnx215340  floating tabs tray overlay after rotation
+5848,fnx215337   severe startup lags two firefox apps in app switcher
 5850, loading a page with an embed causes associated app to open
-5853,fnx215331 ⁃  remove search suggestions after erasing
+5853,fnx215331   remove search suggestions after erasing
 5855, tabs tray opening background fade animation seems reversed in pbm
 5856, selection menu search not using default search provider
-5857,fnx215327 ⁃  cant click on link at bottom of page
+5857,fnx215327   cant click on link at bottom of page
 5858, failed to query addon again
 5860, cant swipe download inform
 5863,missing or intermittently displayed save tabs to collection while having open tabs on 7900beta6
-5864,fnx215319 ⁃  search widget open private mode tabs if browser is in pbm
-5865,fnx215318 ⁃  search engine issues on nonen locales
+5864,fnx215319   search widget open private mode tabs if browser is in pbm
+5865,fnx215318   search engine issues on nonen locales
 5866, language sorting order changes on changing language
-5867,fnx215316 ⁃  deleting browsing data does not delete crashes
+5867,fnx215316   deleting browsing data does not delete crashes
 5868, bad contrast on certain text selections
 5869, firefox crashes on motorola device with different scenarios
-5870,fnx215313 ⁃  main settings screen categories should have 16dp keyline
-5873,fnx215310 ⁃ addons dont recognize the local language
+5870,fnx215313   main settings screen categories should have 16dp keyline
+5873,fnx215310  addons dont recognize the local language
 5876, backspacing from end of url bar has serious and frustrating ux issue
-5883,fnx215297 ⁃   desktop site icon is not highlighted
-5884,fnx215296 ⁃ addons permission links should open in fenix
-5886,fnx215294 ⁃  debuguitestx86 createbookmarkfoldertest javalangillegalstateexception activitytestruleactivit…wbyidridbookmarklist must not be null
+5883,fnx215297    desktop site icon is not highlighted
+5884,fnx215296  addons permission links should open in fenix
+5886,fnx215294   debuguitestx86 createbookmarkfoldertest javalangillegalstateexception activitytestruleactivitwbyidridbookmarklist must not be null
 5887, some passwords are not autofilling
 5889, canceling of hanging downloads
-5890,fnx215290 ⁃  intermittent javarmiunmarshalexception error unmarshaling return header nested exception is javaioeofexception
+5890,fnx215290   intermittent javarmiunmarshalexception error unmarshaling return header nested exception is javaioeofexception
 5891, crash while uploading gif to google images
-5893,fnx215287 ⁃  fenix sometimes forgets to update the screendisplay
+5893,fnx215287   fenix sometimes forgets to update the screendisplay
 5895, app resume failed stuck in limbo
 5896, status bar icons not visible in twitter pwa
 5897, language search does not work after you change the language
 5898, numbers not localized anywhere in the ui
-5901,fnx215278 ⁃  links opened through google search results dont show up in history
+5901,fnx215278   links opened through google search results dont show up in history
 5903, having open links in apps setting enabled will not allow links to be explicitly opened in firefox
 5904, disable quick website list
 5905, tabs are often painted white
 5910, scrolling by holding space bar doesnt deselect
 5911, rename settings to preferences
-5912, ⠇ help should be same as in the desktop
+5912,  help should be same as in the desktop
 5917, text selector looks ugly on zooming
-5918,fnx215260 ⁃  wrong nightly link in mozilla documentation
-5919,fnx215259 ⁃  private mode screenshots possible via tab tray overviews
+5918,fnx215260   wrong nightly link in mozilla documentation
+5919,fnx215259   private mode screenshots possible via tab tray overviews
 5921, downloaded pdfs do not open
 5922, inconsistency in delete browsing data
 5924, unable to add a custom search engine specifically searxninja
 5925,misaligned etp cfr on android 11 emulator
 5926, tabs tray is switched to fully expanded when rotating from portrait to landscape mode
 5927,improperly displayed and misaligned download prompt on android 11
-5929,fnx215248 ⁃  tab count does not change on doing delete browsing dataopen tabs
+5929,fnx215248   tab count does not change on doing delete browsing dataopen tabs
 5930, serious performance issues after becoming nightly
-5932,fnx215243 ⁃  synced tab pull to refresh never gets reenabled after encountering an account error
+5932,fnx215243   synced tab pull to refresh never gets reenabled after encountering an account error
 5933, fenix does not show any synced tabs in the synced tabs ui
-5936,fnx215239 ⁃ tabs tray context menu kotlinkotlinnullpointerexception crash
+5936,fnx215239  tabs tray context menu kotlinkotlinnullpointerexception crash
 5937, no addons shown on nightly
 5938, no addons in firefox nightly
-5939,fnx215236 ⁃  bottom of bugzilla page is hidden by dynamic toolbar
+5939,fnx215236   bottom of bugzilla page is hidden by dynamic toolbar
 5940, zooming in on bugzilla pages changes minimum zoom
 5941, url entry doesnt scroll to end when presenting autocomplete suggestions making it hard to accept suggestion
-5942,fnx215233 ⁃  long press not selecting text
-5951,fnx215220 ⁃  swipe to delete bug in collection
-5952,fnx215219 ⁃  failed to query installed addons
+5942,fnx215233   long press not selecting text
+5951,fnx215220   swipe to delete bug in collection
+5952,fnx215219   failed to query installed addons
 5953, logs from previous builds are being displayed in taskcluster
 5955, after a content crash the restored tabs are not loaded in gv
 5956, white strip at the bottom on reloading error pages
-5957,fnx216858 ⁃  browser crashes when custom tab is made to open in firefox nightly
+5957,fnx216858   browser crashes when custom tab is made to open in firefox nightly
 5958,deletion confirmation not displayed after closing all opened history and bookmark items
 5959, the snackbar for deleted bookmark is displayed the navigation toolbar is not accessible
 5960,improperly displayed firefox has moved banner while using german
@@ -2809,87 +2807,87 @@
 5976, downloading a pdf that redirects doesnt work
 5978, find in page search box is not properly sized in landscape
 5979, anotate or remove getgenericsumourlfortopic
-5980,fnx215185 ⁃  url copied from reader mode is useless hardcoded as mozextension
-5982,fnx216852 ⁃  constant crash when using open in firefox nightly
+5980,fnx215185   url copied from reader mode is useless hardcoded as mozextension
+5982,fnx216852   constant crash when using open in firefox nightly
 5983, when started for first time the written firefox browser is not visible using dark theme
 5986, nightly and beta for android not consistently following android 10 system default theme
 5989, the dialog for delete the last tab in a collection contains the collection word twice when this is called collection x
-5992,fnx215173 ⁃  when there is only one search engine search engine settings is missing in search mode
+5992,fnx215173   when there is only one search engine search engine settings is missing in search mode
 5993, external links in a pwa opens a empty tab page
-5996,fnx215168 ⁃  long press menu shows search in edge
-5997,fnx215167 ⁃  sentence in french truncated on nightly welcome screen
-5998,fnx215166 ⁃  crash in logins
-5999,fnx215165 ⁃  crash when custom tab is opened in browser
+5996,fnx215168   long press menu shows search in edge
+5997,fnx215167   sentence in french truncated on nightly welcome screen
+5998,fnx215166   crash in logins
+5999,fnx215165   crash when custom tab is opened in browser
 6002, discoverability experiment users from nonenglish locales are wrongly enrolled in the experiment
-6003,fnx215161 ⁃  firefox beta and nightly fail to download anything from any website
-6004,fnx215160 ⁃ youtube high definition doesnt work properly
+6003,fnx215161   firefox beta and nightly fail to download anything from any website
+6004,fnx215160  youtube high definition doesnt work properly
 6005, white status bar in pb when accessed from home screen on samsung devices
 6006, generaluseragentoverride is not working in android beta
-6011,fnx215152 ⁃  firefox beta and nightly fail to download anything from any website
+6011,fnx215152   firefox beta and nightly fail to download anything from any website
 6012, wrong error message
 6013, githubcom  cant scroll list of items on the column of a project page
 6014, debug app opens incorrect playstore link
-6015,fnx215147 ⁃  tab tray preview for reader mode pages is a blank rectangle
+6015,fnx215147   tab tray preview for reader mode pages is a blank rectangle
 6018,aboutconfig does not work
-6020,fnx215142 ⁃  pressing back on home screen closes the browser
-6023,fnx215138 ⁃ chinese pinyin input issue
-6024,fnx215137 ⁃  regression fenix crashes when trying to open it through the devices launcher
+6020,fnx215142   pressing back on home screen closes the browser
+6023,fnx215138  chinese pinyin input issue
+6024,fnx215137   regression fenix crashes when trying to open it through the devices launcher
 6027, cannot complete captcha in fenix unsupported browser
-6028,fnx215133 ⁃  firefox nightly crashing
+6028,fnx215133   firefox nightly crashing
 6029, device name changes in fenix arent reflected in firefox desktop synced tabs view
 6030, qwant missing from the list of search engines
 6031, fill link from clipboard not working when directly opening new tab
 6033, sites not loading for some time if connection interrupted
-6034,fnx215126 ⁃  search suggestions doesnt work for custom search engines
+6034,fnx215126   search suggestions doesnt work for custom search engines
 6035, can not disable on boarding feature in code
 6038, make sure that the user uninstalled the correct firefox nightly app
 6039, visual issue with main menu
 6040, synced tabs large gap if there is no page title
-6041,fnx215119 ⁃  device name on synced tabs screen is truncated
+6041,fnx215119   device name on synced tabs screen is truncated
 6042, after about a minute of use it no longer loads any sites
 6044, learn more link from both firefox nightly opens a missing page page not found
 6045, desktop site toggle in custom tab is really close to the desktop site text
-6046,fnx215113 ⁃  native crash  nsnodataprotocolcontentpolicyshouldload mozillacssloadercheckcontentpolicy  audioonetpl
-6047,fnx215112 ⁃  report site issue is missing from addons sub menu
+6046,fnx215113   native crash  nsnodataprotocolcontentpolicyshouldload mozillacssloadercheckcontentpolicy  audioonetpl
+6047,fnx215112   report site issue is missing from addons sub menu
 6048, cant download file that need to login
 6049, x cross to close custom tabs almost invisible
 6052, firefox nightly not working on android 11 after update
 6053, ublock origin
 6055, dynamic navbar isnt applied in extensions
-6056,fnx215102 ⁃  addons language dont change when browsers language changes
-6057,fnx215100 ⁃  multiple browsers in app switcher
+6056,fnx215102   addons language dont change when browsers language changes
+6057,fnx215100   multiple browsers in app switcher
 6059, on firefox nightly the button get firefox for android beta is displayed even if the app is already installed
 6060, firefox nightly home screen icons are not the same with the inapp branding after update
-6063,fnx215094 ⁃  youtube definition addons page has a misaligned button
+6063,fnx215094   youtube definition addons page has a misaligned button
 6066, some website cant back
 6067, send tab to fenix not receiving it automatically anymore
-6068,fnx215088 ⁃  crash on startup
-6069,fnx215087 ⁃ too small firefox logo on orgmozillafenix
+6068,fnx215088   crash on startup
+6069,fnx215087  too small firefox logo on orgmozillafenix
 6070, i18n large gap in the middle of the text on start screen
-6072,fnx215084 ⁃  firefox nightly has moved and new nightly link points to orgmozillafennecaurora
+6072,fnx215084   firefox nightly has moved and new nightly link points to orgmozillafennecaurora
 6073, language screen should display its follow device language label in the device language
-6077,fnx215078 ⁃ crash  androidviewviewrootimplcalledfromwrongthreadexception at androidviewviewrootimplcheckthreadviewrootimpljava 
+6077,fnx215078  crash  androidviewviewrootimplcalledfromwrongthreadexception at androidviewviewrootimplcheckthreadviewrootimpljava 
 6078,website does not load at first try
 6080,synced tabs connected mobile devices arent displayed if no tabs are opened
-6081,fnx215074 ⁃  dark purple bar in the top of webview
+6081,fnx215074   dark purple bar in the top of webview
 6082, synced tabs the list of opened tabs are not displayed after restarting the app and accessing synced tabs
 6083, fenix icon on nightly migration builds does not match application icon itself and is confusing with fenix nightly builds
 6084,close all tabs doesnt work properly
 6085, discoverability experiment the last screen displayed before focusinglaunching firefox is wrongly displayed after adding the search widget
 6086, custom screen resolution cause wrong scaling of addons rating stars
-6087,fnx215068 ⁃  android toolbar uses white background even when the icons are white too
+6087,fnx215068   android toolbar uses white background even when the icons are white too
 6088,truncated search by image title on beta 7900beta4 from 71
 6089, no longer supported
-6090,fnx215065 ⁃  reader mode not available for some pages
+6090,fnx215065   reader mode not available for some pages
 6091, download request does not send a referer header
 6092, selectdeselect all button text should be sentence case
 6095, wrong path to hook in prepushrecommendedsh
 6096, scrolling through tabs accidentally swipes the tab overview away
 6097, tabs dont have a preview image
 6099,site notification
-6103,fnx215052 ⁃  overwriting files with same name when downloading to some folders
-6104,fnx215051 ⁃  discoverability experiment the popup is not dismissed after the user has added the widget
-6105,fnx215050 ⁃ native code crash  mozillaipcbackgroundchildimplprocessingerror 
+6103,fnx215052   overwriting files with same name when downloading to some folders
+6104,fnx215051   discoverability experiment the popup is not dismissed after the user has added the widget
+6105,fnx215050  native code crash  mozillaipcbackgroundchildimplprocessingerror 
 6106,system media notification and tab view media state displayed on website without any media being actually played
 6107, discoverability experiment the popup is only dismissed after pressing not now or outside its borders twice
 6108,discoverability experiment the popup is wrongly displayed if the user already has the search widget installed
@@ -2897,776 +2895,776 @@
 6110, after the first scroll fling the second one accelerates the scrolling unusually faster
 6111, search widget not working when minimized in tab switcher
 6112, enhanced tracking protection cfr detaches from shield when address bar slides down
-6113,fnx216816 ⁃  firefox preview or nightly crashes on certain sites
-6115,fnx216813 ⁃  new tab list hides itself when scrolling bottoms out
+6113,fnx216816   firefox preview or nightly crashes on certain sites
+6115,fnx216813   new tab list hides itself when scrolling bottoms out
 6116,verycompletely unresponsive and crashing fdroid 
-6118,fnx212976 ⁃ closing the private tabs from the notification breaks the value of the normal browsing tabs counter
+6118,fnx212976  closing the private tabs from the notification breaks the value of the normal browsing tabs counter
 6119, lastpass doesnt work with orgmozillafirefoxbeta
-6120,fnx212978 ⁃ tabs counter isnt updated after deleting the open tabs browsing data
-6121,fnx212979 ⁃ missing or intermittently displayed save tabs to collection while having open tabs
+6120,fnx212978  tabs counter isnt updated after deleting the open tabs browsing data
+6121,fnx212979  missing or intermittently displayed save tabs to collection while having open tabs
 6122, inconsistent string color
-6123,fnx212981 ⁃  branding is not reverted back to beta on v 7801beta1 and v 7900beta1
+6123,fnx212981   branding is not reverted back to beta on v 7801beta1 and v 7900beta1
 6124, the pwa is closed when opening a sign in link in fenix
 6125, heavyhanded page refresh loses wip content
-6127,fnx212985 ⁃  when open links in apps is enabled even after selecting to open with fenix the link is opened in the wikipedia app
+6127,fnx212985   when open links in apps is enabled even after selecting to open with fenix the link is opened in the wikipedia app
 6128, in the long press menu firefox nightly search is always searching with amazoncom instead of the selected default search engine
 6131, too many sites are left without favicons in the top site page
-6138,fnx212997 ⁃  memory leak in browseranimator
+6138,fnx212997   memory leak in browseranimator
 6143, error page button outline
-6144,fnx213002 ⁃  when open links in apps is enabled websites which have play store links dont redirect to the play store app and instead open them on the play stores website
+6144,fnx213002   when open links in apps is enabled websites which have play store links dont redirect to the play store app and instead open them on the play stores website
 6145, do not hardcore pairing url
 6146, share option not displayed when long tap on url bar is performed on android 5
-6147,fnx216797 ⁃  save collection button not shown after the first collection
-6149,fnx216796 ⁃  regression  push notifications dont work in beta 7801
+6147,fnx216797   save collection button not shown after the first collection
+6149,fnx216796   regression  push notifications dont work in beta 7801
 6151,missing history and bookmarks action bar after opening multiple items in new tabs
-6152,fnx213008 ⁃  google is not in the default search engine list
-6155,fnx216792 ⁃  new tabs ui makes it hard to scroll to newest tab
+6152,fnx213008   google is not in the default search engine list
+6155,fnx216792   new tabs ui makes it hard to scroll to newest tab
 6157, 3dot menu and image popup are inconsistent
 6158, sliding popup are inconsistent
-6161,fnx216788 ⁃  unable to search easily
-6162,fnx213018 ⁃  sometimes the dynamic address bar at the bottom cannot disappear
-6165,fnx216787 ⁃  clicking on the firefox nightly search on the long press popup menu in a custom tab doenst do anything
-6169,fnx213022 ⁃  white navigation bar  bad contrast on xt1031
-6173,fnx213024 ⁃  preview image in tab tray is reused even across domains
+6161,fnx216788   unable to search easily
+6162,fnx213018   sometimes the dynamic address bar at the bottom cannot disappear
+6165,fnx216787   clicking on the firefox nightly search on the long press popup menu in a custom tab doenst do anything
+6169,fnx213022   white navigation bar  bad contrast on xt1031
+6173,fnx213024   preview image in tab tray is reused even across domains
 6177, japanese characters are fallbacked to serif fonts glyphs
-6179,fnx216776 ⁃  firefox fenix doesnt respect users desired language for web content
-6181,fnx216774 ⁃  address bar keeps disappearing on scroll down
-6182,fnx216771 ⁃  clicking an uber eats app link from email stalls forever on fenix
+6179,fnx216776   firefox fenix doesnt respect users desired language for web content
+6181,fnx216774   address bar keeps disappearing on scroll down
+6182,fnx216771   clicking an uber eats app link from email stalls forever on fenix
 6184, slow link opening
-6193,fnx216759 ⁃  tabs ui dismisses on scroll  unable to select tab
-6194,fnx213039 ⁃  crash kotlinkotlinnullpointerexception at mozillacomponentsservicefxamanagerfxaaccountmanagerpostauthenticatedfxaaccountmanagerkt36
+6193,fnx216759   tabs ui dismisses on scroll  unable to select tab
+6194,fnx213039   crash kotlinkotlinnullpointerexception at mozillacomponentsservicefxamanagerfxaaccountmanagerpostauthenticatedfxaaccountmanagerkt36
 6195, fenix nightly sometimes disappears from recent apps menu
 6197, font change issue
-6198,fnx213042 ⁃  links in addons details page should open in  fenix
+6198,fnx213042   links in addons details page should open in  fenix
 6199, saved logins not available in private browsing
-6200,fnx216753 ⁃  0 tabs counter after the migration from fennec to fenix
+6200,fnx216753   0 tabs counter after the migration from fennec to fenix
 6201, private tabs closed automatically when app is running in background
-6202,fnx213706 ⁃  regression strange animation of tab counter when switching between regular and private mode
-6204,fnx213704 ⁃  firefox reports as a seperate incorrect device to google my account
+6202,fnx213706   regression strange animation of tab counter when switching between regular and private mode
+6204,fnx213704   firefox reports as a seperate incorrect device to google my account
 6206, error when switching between browser and inapp browser
 6207, swipe up on instagram stories doesnt work
 6211, eopenedappfirstrun leanplum metric is not implemented as documented
 6221, can not open any about page on aboutabout
-6222,fnx213687 ⁃  back should always return to last open tab after exhausting current tabs back history
-6223,fnx213686 ⁃  not all devices are displayed on synced tabs
+6222,fnx213687   back should always return to last open tab after exhausting current tabs back history
+6223,fnx213686   not all devices are displayed on synced tabs
 6227, intermittent debugt javalangassertionerror verification failed call 2 of 3 tabcollectionstoragetabcollectionstorage33renamecollectioneqtabcollection35 eqname was not called
 6229, qr scanner can glitch into green output on xiaomi redmi note 8 pro
-6230,fnx216734 ⁃  security issue mozilla credentials access from other apps
-6231,fnx216733 ⁃  black bar being added in installed webpage
+6230,fnx216734   security issue mozilla credentials access from other apps
+6231,fnx216733   black bar being added in installed webpage
 6236, pause button still visible in tab tray for tabs that are in reader mode
-6237,fnx216725 ⁃   tabstray illegalstateexception initialinfo must not be null
-6238,fnx213676 ⁃  tab tray shows a whiteblank preview on reader view pages
+6237,fnx216725    tabstray illegalstateexception initialinfo must not be null
+6238,fnx213676   tab tray shows a whiteblank preview on reader view pages
 6239, reader mode only appears on switching tabs on certain pages due page not meeting the minimum amount of text
 6240, svgs are not scalable properly
-6243,fnx213672 ⁃  tab order changes on undo close tab
+6243,fnx213672   tab order changes on undo close tab
 6244, search engine logo in homescreen toolbar takes a long time to show up on start
 6245, black flash when navigating back to homescreen after opening search screen
-6247,fnx213669 ⁃  javalangindexoutofboundsexception at javautilarraylistgetarraylistjava
-6249,fnx213668 ⁃  white almost invisible close and share icons in custom tabs when fenix is always set to open tabs in a private browsing mode
+6247,fnx213669   javalangindexoutofboundsexception at javautilarraylistgetarraylistjava
+6249,fnx213668   white almost invisible close and share icons in custom tabs when fenix is always set to open tabs in a private browsing mode
 6253, the text from dropdown and button seams missalignment on my tp link router page
-6257,fnx216709 ⁃  fenix crashes when opening the bookmark folders
+6257,fnx216709   fenix crashes when opening the bookmark folders
 6260, permanent debugt automation timeout after codecoviobash update
 6262, a white flash will appear when accessing googlecom using dark reader addon
-6263,fnx216704 ⁃  white line on top of mobile youtube after firefox preview update
-6265,fnx216703 ⁃  error colors in input fields are not consistent throughout the app and do not follow ux specs
+6263,fnx216704   white line on top of mobile youtube after firefox preview update
+6265,fnx216703   error colors in input fields are not consistent throughout the app and do not follow ux specs
 6266,tab tray  number of listed items and item in list not read properly
-6268,fnx216701 ⁃  going to the previous tab became a nightmare with 520
-6269,fnx213658 ⁃ wrong default search engine displayed on startup
-6270,fnx216699 ⁃   crashes when opening a bookmarks folder samsung galaxy tab s5e
-6272,fnx213656 ⁃  520 top sites icons become small with a huge borders
-6273,fnx216695 ⁃  pressing back on the search screen intermittently returns to homescreen instead of browser when opened from tab
-6274,fnx216694 ⁃  pressing refresh in a tab loaded from a collection does not request new content from the site
-6275,fnx216693 ⁃  in app pages doesnt take the entire screen
+6268,fnx216701   going to the previous tab became a nightmare with 520
+6269,fnx213658  wrong default search engine displayed on startup
+6270,fnx216699    crashes when opening a bookmarks folder samsung galaxy tab s5e
+6272,fnx213656   520 top sites icons become small with a huge borders
+6273,fnx216695   pressing back on the search screen intermittently returns to homescreen instead of browser when opened from tab
+6274,fnx216694   pressing refresh in a tab loaded from a collection does not request new content from the site
+6275,fnx216693   in app pages doesnt take the entire screen
 6276, hide save tabs to collection when there is no tab
 6277, bottom part of ublock origin settings pages hidden behind url bar
 6278, context menu is always above the text making the page scroll up automatically if there is no space available
 6280, handlepermissionschange should store the updated permission and reload webpage javalangassertionerror verification failed less calls happened than demanded by order verification sequence
-6282,fnx213646 ⁃  close last tab doesnt close tab tray
-6283,fnx213645 ⁃  0 tab shown instead of  icon
+6282,fnx213646   close last tab doesnt close tab tray
+6283,fnx213645   0 tab shown instead of  icon
 6285, cursor movement doesnt work properly
 6286,  firefox account has never synchronised wont sync
-6288,fnx216686 ⁃ top sites section gets displayed while in private browsing
-6290,fnx216683 ⁃ tapping the desktop bookmarks folder crashes fenix  javalangillegalstateexception the specified child already has a parent you must call removeview on the childs parent first
+6288,fnx216686  top sites section gets displayed while in private browsing
+6290,fnx216683  tapping the desktop bookmarks folder crashes fenix  javalangillegalstateexception the specified child already has a parent you must call removeview on the childs parent first
 6291,the old history and bookmarks action bars are displayed on exit
 6293, metropolis is not used in a few places within the app
-6298,fnx216677 ⁃  dont animate tab counter when a session removed or restored
+6298,fnx216677   dont animate tab counter when a session removed or restored
 6299, mic displayed on widget when show voice search option is disabled
 6301, line breaks not handled properly in tibetan text
-6302,fnx216674 ⁃  crash while page loads and user taps the devices back button  libcso0x49e48  libartso0x432f31
+6302,fnx216674   crash while page loads and user taps the devices back button  libcso0x49e48  libartso0x432f31
 6304, the text clipped when search for images and select blue colour filter
 6307, there are 2 different open private browsing widgetsshortcuts
-6309,fnx216672 ⁃   saved logins are visible in the recent apps overview
+6309,fnx216672    saved logins are visible in the recent apps overview
 6310,saved logins error state icon misaligned
-6312,fnx216667 ⁃  incorrect url when sharing page from the reader view
+6312,fnx216667   incorrect url when sharing page from the reader view
 6315, image non recognized it asks to download as bin file
 6321, keyboard never pops back up after being dismissed on certain textboxes
 6322,fenix is rendering webpages at 60 fps on a 90hz screen
 6323, google finances top stories links just spawn aboutblank tabs in fenix but work fine in fennec
 6324, stale media notifications in twittercom
-6328,fnx216663 ⁃  regression large gap on delete browsing data on quit screen
-6329,fnx216662 ⁃  can not switch to top navigation toolbar broken navigation toolbar settings
+6328,fnx216663   regression large gap on delete browsing data on quit screen
+6329,fnx216662   can not switch to top navigation toolbar broken navigation toolbar settings
 6330, active icon of enhanced tracking protection in bottom bar has visual glitches
-6331,fnx213605 ⁃  text selection threedot menu has missing padding in pbm
-6332,fnx216661 ⁃  favicons are missing in tab tray on 520
-6333,fnx216657 ⁃  pwas have large toolbarsized gap at the top of the screen
-6334,fnx216656 ⁃  autoplay block not working
-6336,fnx213604 ⁃  collection deletion inconsistent behaviour
+6331,fnx213605   text selection threedot menu has missing padding in pbm
+6332,fnx216661   favicons are missing in tab tray on 520
+6333,fnx216657   pwas have large toolbarsized gap at the top of the screen
+6334,fnx216656   autoplay block not working
+6336,fnx213604   collection deletion inconsistent behaviour
 6337,anr after pressing start browsing on google pixel 3a android 10
 6339, unable to export privacy badger settings
 6340, site previews in total dark mode with darkreader on  merge visually with fenix dark background
-6341,fnx216653 ⁃  toolbar customize showing both selected
+6341,fnx216653   toolbar customize showing both selected
 6342, embedded facebook video does not show
-6343,fnx216652 ⁃  caching behavior
+6343,fnx216652   caching behavior
 6344, links in the email are not handled properly
 6345, inconsistent fab entryexit animation on tabs tray
-6346,fnx216651 ⁃  easy to overlook fxa signin in settings screen ux question
+6346,fnx216651   easy to overlook fxa signin in settings screen ux question
 6347, top sites borders are superfluous and look messy
-6348,fnx216650 ⁃  synced tabs view doesnt show pull to refresh layout while loading
-6350,fnx216647 ⁃  tab counter flickers
-6351,fnx216646 ⁃  dark mode not working in reader mode
-6352,fnx216645 ⁃  dark mode issue
-6353,fnx216644 ⁃  dark mode bug
-6354,fnx213594 ⁃ tabs tray site preview are lost after resuming fenix
-6355,fnx213593 ⁃  in private mode when interchanging languages white layout is present
+6348,fnx216650   synced tabs view doesnt show pull to refresh layout while loading
+6350,fnx216647   tab counter flickers
+6351,fnx216646   dark mode not working in reader mode
+6352,fnx216645   dark mode issue
+6353,fnx216644   dark mode bug
+6354,fnx213594  tabs tray site preview are lost after resuming fenix
+6355,fnx213593   in private mode when interchanging languages white layout is present
 6356, the translation in other languages for collections description is not present
 6358, addon submenu is not translated
-6359,fnx216641 ⁃  tabs counter displays some  icon before displaying the number of tabs while adding a new tab
-6360,fnx216640 ⁃ tabs tray tabs counter ∞ symbol padding issue
-6361,fnx216639 ⁃  intermittent failure threedotmenuitemstest
+6359,fnx216641   tabs counter displays some  icon before displaying the number of tabs while adding a new tab
+6360,fnx216640  tabs tray tabs counter  symbol padding issue
+6361,fnx216639   intermittent failure threedotmenuitemstest
 6362, intermittent failure iomockkmockkexception missing calls inside every    block
 6364, the keyboard covers the fenix search bar entirely when in landscape mode
 6366,  various threedot menus have become very small
-6367,fnx216634 ⁃  when previewing sites from external app top of screen is blank
-6368,fnx216633 ⁃  settings action bar is multiselect colored after opening multiple tabs from history
-6369,fnx216631 ⁃  o
+6367,fnx216634   when previewing sites from external app top of screen is blank
+6368,fnx216633   settings action bar is multiselect colored after opening multiple tabs from history
+6369,fnx216631   o
 6370, opening multiple tabs from history screen opens homescreen instead of tabs tray or page content
-6371,fnx216630 ⁃  tabs flicker when switching from private tabs to normal tabs
+6371,fnx216630   tabs flicker when switching from private tabs to normal tabs
 6372, fab animation jank when closing tabs on galaxy s5
-6374,fnx216625 ⁃  fenix nighlty ui getting worse
+6374,fnx216625   fenix nighlty ui getting worse
 6376, lastpass autofill service doesnt work
 6377, legacy autofill on lastpass makes password field readable
 6378, url autocomplete reappear with gboard backspace button
 6379, cant access shortcut sites from devices home screen when saved in reader mode
-6382,fnx213576 ⁃  crash when enabling reader mode while the page is being scrolled
-6384,fnx213574 ⁃  top sites are not centered properly on some screen sizes
+6382,fnx213576   crash when enabling reader mode while the page is being scrolled
+6384,fnx213574   top sites are not centered properly on some screen sizes
 6385, logins not syncing from laptop to mobile
-6386,fnx213572 ⁃ collections flicker after tapping the new tab fab
-6387,fnx216621 ⁃ unresponsive tab tray items on first touch
+6386,fnx213572  collections flicker after tapping the new tab fab
+6387,fnx216621  unresponsive tab tray items on first touch
 6388, app crashes when cancelling the downloading and verifying addon
-6389,fnx213569 ⁃ tabs tray native code crash after deleting and undoing deletion of reader mode tabs
+6389,fnx213569  tabs tray native code crash after deleting and undoing deletion of reader mode tabs
 6391,tabs tray improperly page link while in reader mode after delete  undo
 6393, browser speed
-6395,fnx213564 ⁃  addons menu not reversed when toolbar is set to top
-6397,fnx213563 ⁃  general blocked site permissions are shown on websites that dont need them
-6398,fnx216612 ⁃  clear a url from the nav bar and then press back goes to the homescreen
-6399,fnx216611 ⁃  one pixel white line on top in many websites on scrolling up
+6395,fnx213564   addons menu not reversed when toolbar is set to top
+6397,fnx213563   general blocked site permissions are shown on websites that dont need them
+6398,fnx216612   clear a url from the nav bar and then press back goes to the homescreen
+6399,fnx216611   one pixel white line on top in many websites on scrolling up
 6400, black highlight on selecting text and searching
-6401,fnx216610 ⁃ tabs tray tapping the new tab fab displays  instead of the tabs number
+6401,fnx216610  tabs tray tapping the new tab fab displays  instead of the tabs number
 6403, fullhdfilmizlesenecom  video screen size disorder
-6405,fnx216605 ⁃  visual design of delete browsing data should match delete browsing data on quit
+6405,fnx216605   visual design of delete browsing data should match delete browsing data on quit
 6408, alignment issue with top sites labels
-6414,fnx216600 ⁃  native crash when opening many tabs rapidly 1 per second
-6415,fnx216599 ⁃  top site icon size and dark theme border doesnt match spec
-6416,fnx216597 ⁃  tabs require two clicks to switch between
-6417,fnx216596 ⁃  tab tray first touch isnt registered
+6414,fnx216600   native crash when opening many tabs rapidly 1 per second
+6415,fnx216599   top site icon size and dark theme border doesnt match spec
+6416,fnx216597   tabs require two clicks to switch between
+6417,fnx216596   tab tray first touch isnt registered
 6418, synced tabs is not translated in all browser languages
-6420,fnx216594 ⁃  update synced tabs view
-6422,fnx216591 ⁃ tabs tray tabs are opened only after the second attempt
+6420,fnx216594   update synced tabs view
+6422,fnx216591  tabs tray tabs are opened only after the second attempt
 6423, on addons submenu report site issue is not necessary
-6424,fnx216590 ⁃  on new tab page main menu “addons” is not necessary
-6428,fnx216586 ⁃  tabs tray stays open when clicking links from other apps
+6424,fnx216590   on new tab page main menu addons is not necessary
+6428,fnx216586   tabs tray stays open when clicking links from other apps
 6434, flash when opening the app on low api levels
-6436,fnx216580 ⁃  loading bar hidden when navigating within a domain
+6436,fnx216580   loading bar hidden when navigating within a domain
 6442, pages not loading with error address not found
 6443, sign in into sync via scan broken
-6444,fnx216576 ⁃  the url bar appears when using picture in picture
-6446,fnx216571 ⁃  pressing back in a tab goes to the home screen instead of the app that opened the tap
+6444,fnx216576   the url bar appears when using picture in picture
+6446,fnx216571   pressing back in a tab goes to the home screen instead of the app that opened the tap
 6447, back navigation on newly opened tab opens another tab
 6448,the preferencessync state isnt updated in the metrics ping
 6449, search bar cant handle space between words of a url
 6451, force closing fenix after disabling an addon uninstalls it
-6452,fnx216566 ⁃ the addon install cancellation button isnt responsive
-6453,fnx216565 ⁃  crash when using firefox nightly search through pwa  libcso0x4b7f0  dalvikmain space region space43844384 deleted0x3689d60b
+6452,fnx216566  the addon install cancellation button isnt responsive
+6453,fnx216565   crash when using firefox nightly search through pwa  libcso0x4b7f0  dalvikmain space region space43844384 deleted0x3689d60b
 6460, devices to sync are gone
 6462, disqus comments not working
-6463,fnx213522 ⁃  tabs tray fenix loses thumbnail of github
-6464,fnx213521 ⁃  large gap in view  edit logins
-6469,fnx216558 ⁃  tabs tray show trash icon when starting a swipe gesture to close a tab
-6470,fnx213516 ⁃  inconsistent icon size in tab counter long press menu
-6471,fnx216556 ⁃  alignment issue in tabs tray
+6463,fnx213522   tabs tray fenix loses thumbnail of github
+6464,fnx213521   large gap in view  edit logins
+6469,fnx216558   tabs tray show trash icon when starting a swipe gesture to close a tab
+6470,fnx213516   inconsistent icon size in tab counter long press menu
+6471,fnx216556   alignment issue in tabs tray
 6472, a11y tabs tray bad contrast for inactive mode icon in dark theme
-6473,fnx216555 ⁃  tabs in tabs tray flicker when switching between regular and private tabs
-6475,fnx216553 ⁃  regression you need two clicks instead of one to open a tab in tabs tray
+6473,fnx216555   tabs in tabs tray flicker when switching between regular and private tabs
+6475,fnx216553   regression you need two clicks instead of one to open a tab in tabs tray
 6476, page reloading on toggling notification
-6477,fnx216552 ⁃  regression preferscolorscheme no longer works
+6477,fnx216552   regression preferscolorscheme no longer works
 6478, once you use form fill on a website it is repeated on every search
-6480,fnx216551 ⁃  google discover pages opens in browser instead of custom tab
-6481,fnx213509 ⁃  swipe to close tab shows the tab again right after removing it
+6480,fnx216551   google discover pages opens in browser instead of custom tab
+6481,fnx213509   swipe to close tab shows the tab again right after removing it
 6482, always open website in apps
-6483,fnx216548 ⁃  twitter pwacustom tabs have white empty space on the top and it carries that to the whatever website that has been opened from it
+6483,fnx216548   twitter pwacustom tabs have white empty space on the top and it carries that to the whatever website that has been opened from it
 6484, syncronised tabs still show in menu when tab syncing is disabled
-6485,fnx216547 ⁃   blank bar appears above web content in custom tabs  pwas
+6485,fnx216547    blank bar appears above web content in custom tabs  pwas
 6488, etp sheild icon vanishes on report site issue
-6489,fnx216543 ⁃  cant take screenshot in pwa or custom tabs
+6489,fnx216543   cant take screenshot in pwa or custom tabs
 6493, intermittent cron tasks failing with javarmiunmarshalexception error unmarshaling return header nested exception is and cannot allocate memory
-6494,fnx216539 ⁃  pwa inexplicably shrunken with thick white bars
+6494,fnx216539   pwa inexplicably shrunken with thick white bars
 6495, open new tab via contextual menu after close  undo action deletes the reopened tab
-6496,fnx216538 ⁃  autopublication doesnt work on windows 10
+6496,fnx216538   autopublication doesnt work on windows 10
 6498, update collections documentation to reflect tab state restoring
-6499,fnx216533 ⁃  edit bookmarks wrong button title
+6499,fnx216533   edit bookmarks wrong button title
 6500, edit bookmarks glitch with the name of the main folder
-6501,fnx213494 ⁃  sometimes the pages cannot be loadedreloaded no matter how many times i click the reload button
-6502,fnx216530 ⁃  edit bookmarks select folder title bar glitch
+6501,fnx213494   sometimes the pages cannot be loadedreloaded no matter how many times i click the reload button
+6502,fnx216530   edit bookmarks select folder title bar glitch
 6503, wrong copy is seen when there are no synced tabs or devices
-6504,fnx213492 ⁃  signin cta for sync tabs is missing
-6505,fnx216527 ⁃  pulltorefresh is possible for sync tabs when there is no sync account
+6504,fnx213492   signin cta for sync tabs is missing
+6505,fnx216527   pulltorefresh is possible for sync tabs when there is no sync account
 6506, bookmarks missing context menu button
-6507,fnx213490 ⁃  edit bookmarks poor placement of the save icon
+6507,fnx213490   edit bookmarks poor placement of the save icon
 6508, intermittent handletoolbarclosetabpress iomockkmockkexception no answer found for sessionmanagerchild3 of static contextkt165516611662getsessions
 6509, fenix does not launch with android studio 40  activity class does not exist
-6510,fnx216525 ⁃  dark reader doesnt work
+6510,fnx216525   dark reader doesnt work
 6515, weird transition is displayed in settings when opening certain menus
-6517,fnx216521 ⁃  fenix freezes after closing tabs
-6518,fnx213483 ⁃  discrepancy in behavior between top and bottom toolbar on feedbincom
-6519,fnx216520 ⁃  when you open links from bookmarkshistory show the tabs tray
+6517,fnx216521   fenix freezes after closing tabs
+6518,fnx213483   discrepancy in behavior between top and bottom toolbar on feedbincom
+6519,fnx216520   when you open links from bookmarkshistory show the tabs tray
 6520, searching through voice assistant from the search widget is done through a different search engine than the one set as default
 6521, firefox preview app disdapears from activities list when in background
 6526, scrolling enabled in context menus
-6529,fnx216516 ⁃  settings wrong font in enhanced tracking protection details
-6531,fnx216514 ⁃  saved logins are visible in the recent apps overview
-6532,fnx216513 ⁃  passwords are visible when reopening fenix
-6533,fnx216512 ⁃  intllocalelocaleservicegetapplocalesaslangtagslastisenus fails on multilocale builds
+6529,fnx216516   settings wrong font in enhanced tracking protection details
+6531,fnx216514   saved logins are visible in the recent apps overview
+6532,fnx216513   passwords are visible when reopening fenix
+6533,fnx216512   intllocalelocaleservicegetapplocalesaslangtagslastisenus fails on multilocale builds
 6534, reduce flicker of reader icon when transitioning between reader and normal browsing
 6535, regression blank page redirect
-6537,fnx216509 ⁃  gecko unexpectedly appears to reload itself after crashes
-6538,fnx216508 ⁃  empty space left in tabs tray when swiping to close
-6539,fnx216506 ⁃  saved logins are visible in the last apps overview
+6537,fnx216509   gecko unexpectedly appears to reload itself after crashes
+6538,fnx216508   empty space left in tabs tray when swiping to close
+6539,fnx216506   saved logins are visible in the last apps overview
 6540, cant download file on postback
 6541, settings disable scrolling when content fits on the screen
 6542, sometimes tab moves sideways instead of clicking x on tabs tray
 6543, remove intermediate state when swiping to close tabs tray
 6544, captionssubtitles on youtube videos missing in fullscreen landscape
-6545,fnx213463 ⁃  undo close tab in tabs tray unexpectedly restores tab to top offscreen
-6546,fnx216505 ⁃  difficult to hit x to close last tab on new tabs tray
+6545,fnx213463   undo close tab in tabs tray unexpectedly restores tab to top offscreen
+6546,fnx216505   difficult to hit x to close last tab on new tabs tray
 6549, when you enter bookmark edit mode keyboard should be visible text cursor should be after the text
-6550,fnx213460 ⁃  crash when tap the password input box on some website
-6551,fnx216503 ⁃  tabs tray remains open when access through widget
-6552,fnx213459 ⁃  tabs tray missing thumbnail content after adding a page to homescreen
-6553,fnx216502 ⁃ tabs tray beta 520beta1 crash  javalangillegalargumentexception session with same id already exists
-6554,fnx216501 ⁃ native code crash when quickly opening the top sites
-6555,fnx216500 ⁃  apks no longer being generated for stable releases
+6550,fnx213460   crash when tap the password input box on some website
+6551,fnx216503   tabs tray remains open when access through widget
+6552,fnx213459   tabs tray missing thumbnail content after adding a page to homescreen
+6553,fnx216502  tabs tray beta 520beta1 crash  javalangillegalargumentexception session with same id already exists
+6554,fnx216501  native code crash when quickly opening the top sites
+6555,fnx216500   apks no longer being generated for stable releases
 6556, animation glitches when closing tabs
-6557,fnx213457 ⁃  videoplayer controls obscure the content
+6557,fnx213457   videoplayer controls obscure the content
 6558, crash  invalid value for param totalbytes
-6565,fnx216497 ⁃  scroll position of tabs tray is lost when switching between normal  private tabs
+6565,fnx216497   scroll position of tabs tray is lost when switching between normal  private tabs
 6568, pages render as black screen on nvidia shield tablet
-6571,fnx216491 ⁃  possible bad merge caused duplicate etp overlay listener
+6571,fnx216491   possible bad merge caused duplicate etp overlay listener
 6572, dynamic top toolbar does not respect embedded content scroll events
-6573,fnx216488 ⁃  dynamic top toolbar leaves white space on certain sites
-6574,fnx213444 ⁃  inconsistencies with the etp shield being highlighted
-6575,fnx216486 ⁃  synced tabs ui allows users to reload page and stays like that forever
-6579,fnx213441 ⁃ site notification doesnt show full message
+6573,fnx216488   dynamic top toolbar leaves white space on certain sites
+6574,fnx213444   inconsistencies with the etp shield being highlighted
+6575,fnx216486   synced tabs ui allows users to reload page and stays like that forever
+6579,fnx213441  site notification doesnt show full message
 6580, theme not switching with the system theme when it is set to follow device theme
-6581,fnx216482 ⁃ download dialog inoperational
+6581,fnx216482  download dialog inoperational
 6582, etp shield indicates there are no blockers but onboarding is displayed
 6583, report site issue icon does not use correct colors and icons for light and dark themes
-6584,fnx216481 ⁃  multiple issues with pwas
-6585,fnx216480 ⁃  reorganize set as default browser and open links in apps from settings
-6586,fnx215063 ⁃ cant launch on first attempt fenix geckonightlydebug on huawei mate 20 lite android 9
+6584,fnx216481   multiple issues with pwas
+6585,fnx216480   reorganize set as default browser and open links in apps from settings
+6586,fnx215063  cant launch on first attempt fenix geckonightlydebug on huawei mate 20 lite android 9
 6588, not all strings are translated in french
-6589,fnx216478 ⁃ tabs tray cant open the open tabs on first attempt after resume while having the tabs tray open
-6590,fnx216477 ⁃ tabs tray crash kotlinkotlinnullpointerexception
-6591,fnx216476 ⁃ 
-6592,fnx216474 ⁃ crash after opening noscripts settings
-6593,fnx216472 ⁃  notfoundexception file resdrawableicreadermodeselectedxml from drawable resource id 0x7f08019d
+6589,fnx216478  tabs tray cant open the open tabs on first attempt after resume while having the tabs tray open
+6590,fnx216477  tabs tray crash kotlinkotlinnullpointerexception
+6591,fnx216476  
+6592,fnx216474  crash after opening noscripts settings
+6593,fnx216472   notfoundexception file resdrawableicreadermodeselectedxml from drawable resource id 0x7f08019d
 6594, page content is not updated until some interactions
-6596,fnx216471 ⁃  pressing back button when address bar is in focus causes page to go back
-6597,fnx216470 ⁃  google search mobile youtube links do not open in app
-6598,fnx216469 ⁃  long delay when swiping to close tabs with many tabs open 100 tabs
-6600,fnx216466 ⁃  fab covers last tab in tab tray
-6601,fnx216465 ⁃  swipe to delete tab is not responsive enough
-6603,fnx216463 ⁃  dark reader no longer works in 200608
-6604,fnx216462 ⁃  firefox nightly crashes in background every 15 minutes
-6608,fnx216458 ⁃  cant interact with bottom of site
-6614,fnx216454 ⁃  jumpy tab when deleting
+6596,fnx216471   pressing back button when address bar is in focus causes page to go back
+6597,fnx216470   google search mobile youtube links do not open in app
+6598,fnx216469   long delay when swiping to close tabs with many tabs open 100 tabs
+6600,fnx216466   fab covers last tab in tab tray
+6601,fnx216465   swipe to delete tab is not responsive enough
+6603,fnx216463   dark reader no longer works in 200608
+6604,fnx216462   firefox nightly crashes in background every 15 minutes
+6608,fnx216458   cant interact with bottom of site
+6614,fnx216454   jumpy tab when deleting
 6616,clearing a site permissions exception via clear browsing data does not immediately revoke that permission
-6618,fnx216451 ⁃  tabtray bottom sheet needs changes to work properly with top toolbar layout
-6621,fnx216447 ⁃  ux elements at bottom of the screen are unresponsive
+6618,fnx216451   tabtray bottom sheet needs changes to work properly with top toolbar layout
+6621,fnx216447   ux elements at bottom of the screen are unresponsive
 6631, synced tabs crash remotetabproviderexception
-6632,fnx216436 ⁃  tab tray a11y  fab isnt focusable by talkback when tab tray is extended
-6638,fnx216434 ⁃  memory leak when switching between other apps and fenix
-6642,fnx216432 ⁃  inconsistent punctuation in etp mode descriptions
-6643,fnx216431 ⁃  textviews on empty etp exceptions screen dont respect rtl layout
-6645,fnx216427 ⁃  tab tray a11y tapping tab tray icon says number of tabs open nothing more
+6632,fnx216436   tab tray a11y  fab isnt focusable by talkback when tab tray is extended
+6638,fnx216434   memory leak when switching between other apps and fenix
+6642,fnx216432   inconsistent punctuation in etp mode descriptions
+6643,fnx216431   textviews on empty etp exceptions screen dont respect rtl layout
+6645,fnx216427   tab tray a11y tapping tab tray icon says number of tabs open nothing more
 6647, opening and closing a pwa while in pb clears the opened tabs
-6648,fnx216424 ⁃  tab tray a11y no tabs message not read
-6649,fnx216423 ⁃ tabs tray empty tabs tray message overlaps with the open tabs before being deleted
-6650,fnx216422 ⁃  crash when downloading an image from smallerpicturesappspotcom
+6648,fnx216424   tab tray a11y no tabs message not read
+6649,fnx216423  tabs tray empty tabs tray message overlaps with the open tabs before being deleted
+6650,fnx216422   crash when downloading an image from smallerpicturesappspotcom
 6651, media notification from lock screen is not working on twitchtv and digi24ro
-6652,fnx216421 ⁃ tab tray the more options overlay menu is misplaced when rotating the device in landscape mode
-6653,fnx216420 ⁃ tabs tray improperly displayed ⋮ overlay after rotation
-6654,fnx216418 ⁃ tabs tray crash javautilconcurrentmodificationexception at javautillinkedhashmaplinkedhashiteratornextnodelinkedhashmapjava
-6655,fnx216416 ⁃  cant change language on local builds
-6656,fnx216414 ⁃ tab tray confirmation snackbar not displayed after swipedelete or tap on the close tab button
-6658,fnx216412 ⁃  cant easily see login while editing
-6659,fnx216410 ⁃  settings headers are not aligned correctly in rtl layout
-6663,fnx216408 ⁃  bad styling on android navigation when tab tray is opened from private home
-6665,fnx216404 ⁃  tab tray tab restore undo from close does not show tab on screen
-6666,fnx216402 ⁃  report of crashing on sign in on 510
-6668,fnx216401 ⁃  site previews behave oddly when scrolling tab tray
-6671,fnx213393 ⁃  fenix crashes when deleting 2 saved logins in a row
-6672,fnx216398 ⁃  black screen when tapping the video while playing in landscape mode
+6652,fnx216421  tab tray the more options overlay menu is misplaced when rotating the device in landscape mode
+6653,fnx216420  tabs tray improperly displayed  overlay after rotation
+6654,fnx216418  tabs tray crash javautilconcurrentmodificationexception at javautillinkedhashmaplinkedhashiteratornextnodelinkedhashmapjava
+6655,fnx216416   cant change language on local builds
+6656,fnx216414  tab tray confirmation snackbar not displayed after swipedelete or tap on the close tab button
+6658,fnx216412   cant easily see login while editing
+6659,fnx216410   settings headers are not aligned correctly in rtl layout
+6663,fnx216408   bad styling on android navigation when tab tray is opened from private home
+6665,fnx216404   tab tray tab restore undo from close does not show tab on screen
+6666,fnx216402   report of crashing on sign in on 510
+6668,fnx216401   site previews behave oddly when scrolling tab tray
+6671,fnx213393   fenix crashes when deleting 2 saved logins in a row
+6672,fnx216398   black screen when tapping the video while playing in landscape mode
 6673, lots of crashes
-6674,fnx216396 ⁃  webcontent registering clicks higher than where actual tap happens
+6674,fnx216396   webcontent registering clicks higher than where actual tap happens
 6676, hit testing doesnt reach the right element
 6677, hide slash if there is nothing after it when url bar is not focused
 6684, dont see synced tabs from all device
-6687,fnx216386 ⁃ tab tray screenshots are broken after deleteundo
+6687,fnx216386  tab tray screenshots are broken after deleteundo
 6689, private tab downloads not cleared on close all private tabs
-6690,fnx216383 ⁃  items behind the dynamic toolbar cannot be clicked even when made visible by scrolling
+6690,fnx216383   items behind the dynamic toolbar cannot be clicked even when made visible by scrolling
 6691, removing from top sites fails sometimes
-6692,fnx216382 ⁃  the search widget prompt is still triggered even when the searches are made in pb discoverability experiment
+6692,fnx216382   the search widget prompt is still triggered even when the searches are made in pb discoverability experiment
 6693, the user is not redirected to home screen after the search widget is added  discoverability experiment
-6694,fnx216381 ⁃  the select collection screen is broken
+6694,fnx216381   the select collection screen is broken
 6695, the links from aboutlicense page dont open
-6696,fnx213371 ⁃  tab tray spot displayed on the new tab floating action button
-6697,fnx216377 ⁃  the website website is not loading
-6698,fnx216375 ⁃  the fenix share sheet is missing several items
-6700,fnx216373 ⁃  new tabs tray gets blank for a while when the back button is pressed two times quickly or going to the androids homescreen and coming back
-6701,fnx216372 ⁃  in firefox nightly all sync items are enabled even though ive never enabled them
-6704,fnx216368 ⁃  the beta tag is missing in the homescreen icon in the latest beta version 7700beta1
-6707,fnx213370 ⁃  run in private browsing toggled off by fenix update
-6708,fnx216364 ⁃  tab tray  grey screenshots after sharing tabs
+6696,fnx213371   tab tray spot displayed on the new tab floating action button
+6697,fnx216377   the website website is not loading
+6698,fnx216375   the fenix share sheet is missing several items
+6700,fnx216373   new tabs tray gets blank for a while when the back button is pressed two times quickly or going to the androids homescreen and coming back
+6701,fnx216372   in firefox nightly all sync items are enabled even though ive never enabled them
+6704,fnx216368   the beta tag is missing in the homescreen icon in the latest beta version 7700beta1
+6707,fnx213370   run in private browsing toggled off by fenix update
+6708,fnx216364   tab tray  grey screenshots after sharing tabs
 6709, tab tray  no screenshot or favicon when opening tabs from collection
 6711, receiving link from other device
 6712, cannot select text in some places
-6713,fnx213365 ⁃  files fail to load or write first time after permission is approved
-6715,fnx213364 ⁃  open in app opens the chrome browser
-6718,fnx216356 ⁃ noticeable lag when opening and dismissing the search view on google pixel 3a android 10
+6713,fnx213365   files fail to load or write first time after permission is approved
+6715,fnx213364   open in app opens the chrome browser
+6718,fnx216356  noticeable lag when opening and dismissing the search view on google pixel 3a android 10
 6719,  dialog box for private use of an addon is not translated
-6720,fnx216354 ⁃  pages that exceed the allocated space are displayed improperly when creating a collection
-6721,fnx216353 ⁃  voice search preference is misplaced
+6720,fnx216354   pages that exceed the allocated space are displayed improperly when creating a collection
+6721,fnx216353   voice search preference is misplaced
 6722, the undo text from the deleted bookmarks snackbar is missaligned on android 5 devices
-6723,fnx216351 ⁃  site titles in collections are truncated too soon
-6726,fnx216348 ⁃  intermittent orgmozillafenixperfstartuphomeactivitylifecycleobservertest javalangassertionerror verification failed number of calls happened not matching exact number of verification sequence
-6727,fnx213360 ⁃  third party cookie blocking not working in custom mode when tracking content is blocked in private tabs
-6729,fnx213358 ⁃   illegalstateexception fragmentmanager has been destroyed
-6730,fnx216347 ⁃  illegalstateexception drawable must not be null when setting thumbnail
-6733,fnx216344 ⁃  tab tray landscape layout is off
-6734,fnx216343 ⁃  remove scroll to tab logic
+6723,fnx216351   site titles in collections are truncated too soon
+6726,fnx216348   intermittent orgmozillafenixperfstartuphomeactivitylifecycleobservertest javalangassertionerror verification failed number of calls happened not matching exact number of verification sequence
+6727,fnx213360   third party cookie blocking not working in custom mode when tracking content is blocked in private tabs
+6729,fnx213358    illegalstateexception fragmentmanager has been destroyed
+6730,fnx216347   illegalstateexception drawable must not be null when setting thumbnail
+6733,fnx216344   tab tray landscape layout is off
+6734,fnx216343   remove scroll to tab logic
 6736, tabs tray new tab  button back navigation feels off
-6738,fnx213354 ⁃  negative downloading progress while downloading from googledrive links
-6741,fnx216339 ⁃  cant download files from private github repo
+6738,fnx213354   negative downloading progress while downloading from googledrive links
+6741,fnx216339   cant download files from private github repo
 6742, download percentage progress is not displayed in portrait mode for files with long name
 6744, stuck imagetext in the botton of screen when scrolling
-6745,fnx213350 ⁃  navigation buttons are almost invisible with new tab tray and private mode
+6745,fnx213350   navigation buttons are almost invisible with new tab tray and private mode
 6747,after logging in the sync buttons are all gray and cannot be clicked
 6748, clicking install button when on a pwa site doesnt do anything
-6749,fnx216333 ⁃  part of the fab button is hidden beneath the system navigation bar in new tab tray layout
-6751,fnx216330 ⁃  undo snackbar pushes fab up in the new tab tray
+6749,fnx216333   part of the fab button is hidden beneath the system navigation bar in new tab tray layout
+6751,fnx216330   undo snackbar pushes fab up in the new tab tray
 6752, datalist not supported
 6753, regressiontabs tray strange shadow of new tab button
-6754,fnx216329 ⁃  whats new page said firefox 50
-6755,fnx216328 ⁃  cannot expand youtube comment
-6756,fnx216327 ⁃  top icons have an ugly white border on dark theme
+6754,fnx216329   whats new page said firefox 50
+6755,fnx216328   cannot expand youtube comment
+6756,fnx216327   top icons have an ugly white border on dark theme
 6757, saved login fills but website becomes unresponsive
-6763,fnx216322 ⁃  white flashes everywhere
+6763,fnx216322   white flashes everywhere
 6766, webapps are buggy
 6767, zeroth private tab can be opened
-6769,fnx216318 ⁃  video loops over a few milliseconds after clicking through a few youtube videos
+6769,fnx216318   video loops over a few milliseconds after clicking through a few youtube videos
 6770, cannot open new tab after closing all private tabs in new tabs tray
 6771, voice icon on search widget crashes when google app disabled after widget installed
-6775,fnx213331 ⁃  odd animation on plus sign icon in tab tray when closing tabs
+6775,fnx213331   odd animation on plus sign icon in tab tray when closing tabs
 6776,spike  ensure that web prompts arent above the tabs tray
-6777,fnx216309 ⁃  tabs tray can be dismissed way too easily when dragging it
-6779,fnx216307 ⁃ tab tray  etp cfr overlaps with the tabs tray
-6780,fnx216305 ⁃ tab tray  improperly displayed open tabs icons in landscape mode
-6781,fnx216304 ⁃ tab tray white screen caused by the fact that the page view remains visible after closing the tab
-6782,fnx213329 ⁃  screenshots are allowed in the new tab tray for private tabs
-6783,fnx216297 ⁃  modal dialog on installing sites to home screen
-6784,fnx216296 ⁃  getting notifications from twitter despite not giving permissions
-6785,fnx216295 ⁃  menu has different width in english
-6786,fnx216294 ⁃ tab tray  improperly displayed tabs tray after rotation
-6788,fnx216293 ⁃ tab tray   ⋮ button not visible the overlay items are inconsistently displayed while in pb
-6790,fnx216292 ⁃ tab tray  undo snackbar not displayed after closing all tabs while in private mode
-6791,fnx213326 ⁃ tab tray  closing all open tabs in private browsing shouldnt redirect the user to normal browsing
-6792,fnx216291 ⁃  rearrange the elements on the just added screen for addons
-6794,fnx216288 ⁃  youtube video freezes image
-6796,fnx216286 ⁃  receiving notifications from a website i didnt grant access to
-6798,fnx216285 ⁃  origin information missing from push notifications
-6808,fnx216274 ⁃  tabtrayview memory leak
-6809,fnx216273 ⁃  crash when selecting voice icon on a device that does not have voice enabled
+6777,fnx216309   tabs tray can be dismissed way too easily when dragging it
+6779,fnx216307  tab tray  etp cfr overlaps with the tabs tray
+6780,fnx216305  tab tray  improperly displayed open tabs icons in landscape mode
+6781,fnx216304  tab tray white screen caused by the fact that the page view remains visible after closing the tab
+6782,fnx213329   screenshots are allowed in the new tab tray for private tabs
+6783,fnx216297   modal dialog on installing sites to home screen
+6784,fnx216296   getting notifications from twitter despite not giving permissions
+6785,fnx216295   menu has different width in english
+6786,fnx216294  tab tray  improperly displayed tabs tray after rotation
+6788,fnx216293  tab tray    button not visible the overlay items are inconsistently displayed while in pb
+6790,fnx216292  tab tray  undo snackbar not displayed after closing all tabs while in private mode
+6791,fnx213326  tab tray  closing all open tabs in private browsing shouldnt redirect the user to normal browsing
+6792,fnx216291   rearrange the elements on the just added screen for addons
+6794,fnx216288   youtube video freezes image
+6796,fnx216286   receiving notifications from a website i didnt grant access to
+6798,fnx216285   origin information missing from push notifications
+6808,fnx216274   tabtrayview memory leak
+6809,fnx216273   crash when selecting voice icon on a device that does not have voice enabled
 6810, tabs tray undo close tab puts tab at the bottom of the list rather than inplace
 6812, firefox preview increases volume on its own in my youtube playlist
-6814,fnx216284 ⁃  the migration screens body text is missing
-6815,fnx11836 ⁃  fenix crashes when opening from launcher after link has been shared from another app
-6816,fnx216266 ⁃  dynamic bottom toolbar not working as expected on some websites
-6817,fnx216265 ⁃  some pwas not loading
+6814,fnx216284   the migration screens body text is missing
+6815,fnx11836   fenix crashes when opening from launcher after link has been shared from another app
+6816,fnx216266   dynamic bottom toolbar not working as expected on some websites
+6817,fnx216265   some pwas not loading
 6819, address bar covering the website content
-6820,fnx216264 ⁃  please reopen the 10811 issue as i have steps to reproduce
-6821,fnx216262 ⁃  regression add to home screen dialog appears after every reload
-6822,fnx216261 ⁃  tracking protection popup appears above tabs tray
+6820,fnx216264   please reopen the 10811 issue as i have steps to reproduce
+6821,fnx216262   regression add to home screen dialog appears after every reload
+6822,fnx216261   tracking protection popup appears above tabs tray
 6826, intermittent runtimeerror gradle command returned error 1 after exception in thread main javanetconnectexception connection timed out connection timed out
-6827,fnx213311 ⁃   open tabs is not translated in other languages
-6828,fnx216257 ⁃  the new tab button from browsers homescreen should be 9059ff in dark theme
+6827,fnx213311    open tabs is not translated in other languages
+6828,fnx216257   the new tab button from browsers homescreen should be 9059ff in dark theme
 6829, a bookmark is not movedupdated immediately
 6830, private modes homescreen is not translated in spanish on android 56
-6834,fnx216254 ⁃  performance 100ms app link delay before geckoview is asked to open a tab
+6834,fnx216254   performance 100ms app link delay before geckoview is asked to open a tab
 6840, links with targetblank open in default browser instead of firefox
 6841, multiple file input length is always 1 one
 6845, avast is not working on fenix for autofill
 6847, choppy scrolling in pwas with webrender enabled
-6849, no title shown with url redirections
-6858,fnx216239 ⁃  closing a single tab via the tab tray leaves the tab in a semiclosed state
-6864,fnx216230 ⁃  watching videos with wr enabled is broken jittery video frozen image sometimes whole tab turns black
-6866,fnx216227 ⁃  cannot download file from firefox send
-6868,fnx216225 ⁃  i cant open the comment section in youtube
-6869,fnx216222 ⁃  share button is giant on inapp browser
+6849,no title shown with url redirections
+6858,fnx216239   closing a single tab via the tab tray leaves the tab in a semiclosed state
+6864,fnx216230   watching videos with wr enabled is broken jittery video frozen image sometimes whole tab turns black
+6866,fnx216227   cannot download file from firefox send
+6868,fnx216225   i cant open the comment section in youtube
+6869,fnx216222   share button is giant on inapp browser
 6870, unable to select more than one file in android file manager
 6872, links open in new tab
-6873,fnx216219 ⁃  crash on a dealer locator
+6873,fnx216219   crash on a dealer locator
 6877, tab tray default icon looks like a placeholder
-6879,fnx216214 ⁃  inconsistent display of address bar in tab tray depending on address bar position
+6879,fnx216214   inconsistent display of address bar in tab tray depending on address bar position
 6880, crash when profiling on xt1031 logcat attached
 6884, firefox preview for android cant view cached pages while offline
-6886,fnx216206 ⁃  unable to backup ublock origin settings to file
-6888,fnx216204 ⁃  crash when downloading while having pwa in background
+6886,fnx216206   unable to backup ublock origin settings to file
+6888,fnx216204   crash when downloading while having pwa in background
 6890, cannot reaccess storage in order to upload a picture in same session
-6891,fnx216202 ⁃   sign out popup text from the account settings is not entirely visible
+6891,fnx216202    sign out popup text from the account settings is not entirely visible
 6896, dynamic navigation toolbar is not working for all sites
-6897,fnx216195 ⁃  unable to view youtube comments
-6899,fnx216191 ⁃  open links in apps does not open links in apps
-6900,fnx216190 ⁃  align open bookmark behaviour with firefox desktop
-6901,fnx216189 ⁃  intermittent failure of openbookmarkinprivatetabtest
+6897,fnx216195   unable to view youtube comments
+6899,fnx216191   open links in apps does not open links in apps
+6900,fnx216190   align open bookmark behaviour with firefox desktop
+6901,fnx216189   intermittent failure of openbookmarkinprivatetabtest
 6904, voice input mic should not appear if there is text in the address bar
 6909, cant download videos from meganz
-6910,fnx216181 ⁃  login credentials not sorted by default
-6911,fnx216180 ⁃  build date appears as debug build
+6910,fnx216181   login credentials not sorted by default
+6911,fnx216180   build date appears as debug build
 6912,  custom tabs three dot menu follows browser theme not custom tab theme
-6913,fnx216179 ⁃  sometimes i cannot go back when on a webpage unless i press back button a lot of times
-6914,fnx216178 ⁃  sharing page in reader view
-6915,fnx216177 ⁃  crash when using voice input for search with disabled google app
-6916,fnx216176 ⁃  add crash reporting opt in mechanism in doc
-6918,fnx213268 ⁃  delay of default search engine icon from navigation bar in the onboarding screen
-6921,fnx216172 ⁃ reader mode not working on beta 510beta1
-6922,fnx216171 ⁃ native code crash after adding and opening a pwa
-6923,fnx216170 ⁃ native code crash when trying to sign in on twitter
-6924,fnx216168 ⁃  app freezes with could not fetch region from location service in mozillalocationservice
+6913,fnx216179   sometimes i cannot go back when on a webpage unless i press back button a lot of times
+6914,fnx216178   sharing page in reader view
+6915,fnx216177   crash when using voice input for search with disabled google app
+6916,fnx216176   add crash reporting opt in mechanism in doc
+6918,fnx213268   delay of default search engine icon from navigation bar in the onboarding screen
+6921,fnx216172  reader mode not working on beta 510beta1
+6922,fnx216171  native code crash after adding and opening a pwa
+6923,fnx216170  native code crash when trying to sign in on twitter
+6924,fnx216168   app freezes with could not fetch region from location service in mozillalocationservice
 6925, device name change isnt reflected in the account settings ui
-6928,fnx216165 ⁃  unable to download files from mega
-6929,fnx213263 ⁃  leak at browserfragment coordinatorlayout
+6928,fnx216165   unable to download files from mega
+6929,fnx213263   leak at browserfragment coordinatorlayout
 6932, the search in firefox context menu option doesnt display in my installation
-6933,fnx216162 ⁃  viewport truncated on pennyarcade
+6933,fnx216162   viewport truncated on pennyarcade
 6934, menus and submenus are not translated in arabic
-6935,fnx216159 ⁃  black flash when opening tab tray
+6935,fnx216159   black flash when opening tab tray
 6936,saved logins view scrolling issue after sorting
-6939, pull to refresh doesn’t work on any website
-6940,fnx216156 ⁃ native code crash on beta 510beta1 after accepting the cookie policy on thevergecom
-6942,fnx216154 ⁃ native code crash on beta 510beta1 after quickly opening one by one the featured top sites
-6943,fnx216152 ⁃  youtube is not working properly on beta 510beta 1 on samsung devices
-6944,fnx216150 ⁃  when protect yourself toggle is deactivated the background color is white maybe the boarder should be as for radio buttons
-6946,fnx213255 ⁃  intermittent ui test error teststrictvisitsheetdetails
-6949,fnx216142 ⁃  intermittent ui test error videoplaybacksystemnotificationtest
-6950,fnx216141 ⁃  intermittent ui test error refreshpagetest
-6951,fnx216140 ⁃  intermittent ui test error validatebaselinepingtest
+6939, pull to refresh doesnt work on any website
+6940,fnx216156  native code crash on beta 510beta1 after accepting the cookie policy on thevergecom
+6942,fnx216154  native code crash on beta 510beta1 after quickly opening one by one the featured top sites
+6943,fnx216152   youtube is not working properly on beta 510beta 1 on samsung devices
+6944,fnx216150   when protect yourself toggle is deactivated the background color is white maybe the boarder should be as for radio buttons
+6946,fnx213255   intermittent ui test error teststrictvisitsheetdetails
+6949,fnx216142   intermittent ui test error videoplaybacksystemnotificationtest
+6950,fnx216141   intermittent ui test error refreshpagetest
+6951,fnx216140   intermittent ui test error validatebaselinepingtest
 6954, mediadevicesgetusermedia opens back facing camera by default
-6955,fnx216133 ⁃  page containing  two dashes is always open in search engine
+6955,fnx216133   page containing  two dashes is always open in search engine
 6957, ios visited pages are displayed multiple times in fenix history tab
-6958,fnx216131 ⁃  tab tray collection default title numbering isnt incremented
-6959,fnx4519 ⁃  tab tray the selection circle is displayed under the navigation bar
-6960,fnx216129 ⁃ tab tray collections can be created while in pb
+6958,fnx216131   tab tray collection default title numbering isnt incremented
+6959,fnx4519   tab tray the selection circle is displayed under the navigation bar
+6960,fnx216129  tab tray collections can be created while in pb
 6961,tab tray open tabs media controls arent displayed
-6962,fnx216127 ⁃ tab tray collections should remain expanded after leaving the home screen view
+6962,fnx216127  tab tray collections should remain expanded after leaving the home screen view
 6963, searching a languagesaved password displays a misplaced x
-6964,fnx216126 ⁃ tab tray hairline separator displayed between top sites and  collections section
-6965,fnx216125 ⁃  desktop bookmarks not syncing
-6966,fnx216124 ⁃  tab tray when opening the tabs from a collection the user is not redirected to the open tabs screen
-6967,fnx216123 ⁃ tab tray the collections section shouldnt be displayed on the home screen if no tabs are open
+6964,fnx216126  tab tray hairline separator displayed between top sites and  collections section
+6965,fnx216125   desktop bookmarks not syncing
+6966,fnx216124   tab tray when opening the tabs from a collection the user is not redirected to the open tabs screen
+6967,fnx216123  tab tray the collections section shouldnt be displayed on the home screen if no tabs are open
 6968,tab tray crash when tapping the tabs counter right before the install pwa dialog is displayed
-6969,fnx216121 ⁃ tab tray  remove ⋮ button overlay if tab count  0
-6970,fnx213246 ⁃ tab tray flicker after undoing the deletion of all open tabs
-6972,fnx216119 ⁃ tab tray open tabs favicons are lost after deleteundo action
-6973,fnx4504 ⁃  the details for one saved login are displayed after interrupting and then resuming fenix
-6974,fnx4503 ⁃  the downloaded text is displayed even when the download was canceled
-6975,fnx4502 ⁃  long usernames are truncated in account details
+6969,fnx216121  tab tray  remove  button overlay if tab count  0
+6970,fnx213246  tab tray flicker after undoing the deletion of all open tabs
+6972,fnx216119  tab tray open tabs favicons are lost after deleteundo action
+6973,fnx4504   the details for one saved login are displayed after interrupting and then resuming fenix
+6974,fnx4503   the downloaded text is displayed even when the download was canceled
+6975,fnx4502   long usernames are truncated in account details
 6976, bibliotecacubxitydev  unable to view bottom content
-6977,fnx4500 ⁃  the download button remains highlighted on the save recovery codes page
+6977,fnx4500   the download button remains highlighted on the save recovery codes page
 6978, sharedarraybuffer no longer available in nightly
 6979, unable to select accept the risk and continue button on secure connection failed dialog
-6980,fnx216114 ⁃   myoutubecom  unable to access the comments section
-6982,fnx216111 ⁃  need to go back 2 times when reading news from google to return to the inicial list of google news home screen
-6984,fnx216109 ⁃  crash in  javalangassertionerror at orgmozillageckoprocessserviceallocatorinstanceinfobindserviceserviceallocatorjava
-6985,fnx216108 ⁃  links shared by fenix do not work with powertube or navi but work with other browsers
-6986,fnx213242 ⁃  dynamic toolbar appears and disappears when scrolling in a textarea
+6980,fnx216114    myoutubecom  unable to access the comments section
+6982,fnx216111   need to go back 2 times when reading news from google to return to the inicial list of google news home screen
+6984,fnx216109   crash in  javalangassertionerror at orgmozillageckoprocessserviceallocatorinstanceinfobindserviceserviceallocatorjava
+6985,fnx216108   links shared by fenix do not work with powertube or navi but work with other browsers
+6986,fnx213242   dynamic toolbar appears and disappears when scrolling in a textarea
 6987, dynamic toolbar gets stuck in an intermediate state on latest nightly
-6988,fnx216107 ⁃  cant hit youtube comments button on latest nightly
-6989,fnx216106 ⁃  cant display any pages on fennecproduction
-6990,fnx213240 ⁃  pressing toolbar and back button at same time crashes fenix javalangillegalstateexception display already acquired
-6991,fnx216104 ⁃  intermittently failing ui tests testdownloadprompt medianotificationtest
-6992,fnx216103 ⁃   open tabs in delete browsing data should use sentence case
-6993,fnx216101 ⁃  automatic font sizing copy in accessibility settings should use sentence case
-6996,fnx216098 ⁃  top most recent tab often gets lost
+6988,fnx216107   cant hit youtube comments button on latest nightly
+6989,fnx216106   cant display any pages on fennecproduction
+6990,fnx213240   pressing toolbar and back button at same time crashes fenix javalangillegalstateexception display already acquired
+6991,fnx216104   intermittently failing ui tests testdownloadprompt medianotificationtest
+6992,fnx216103    open tabs in delete browsing data should use sentence case
+6993,fnx216101   automatic font sizing copy in accessibility settings should use sentence case
+6996,fnx216098   top most recent tab often gets lost
 6997, closing tab scrolls top list to top
 6998, fenix loads dead tab log attached
-6999,fnx216095 ⁃  illegalargumentexception  receiver not registered mozillacomponentsfeaturedownloadsabstractfetchdownloadservice
-7000,fnx216094 ⁃  turn on leakcanary in debug builds by default
+6999,fnx216095   illegalargumentexception  receiver not registered mozillacomponentsfeaturedownloadsabstractfetchdownloadservice
+7000,fnx216094   turn on leakcanary in debug builds by default
 7001, intermittent ui test error editbookmarktest javalangassertionerror
-7002,fnx213235 ⁃  select web apps show blank screen
+7002,fnx213235   select web apps show blank screen
 7003, top dynamic toolbar should use a custom behavior
-7004,fnx216092 ⁃  autocomplete doesnt remove text when it doesnt match users input with anysoftkeyboard
-7006,fnx216091 ⁃  alimentaritorevelupcom never finished loading
-7007,fnx216090 ⁃  reddit upload button does not work
-7009,fnx213231 ⁃  application crashes when navigating to aboutprocesses
-7010,fnx216088 ⁃  extensions randomly stop working
-7011,fnx216087 ⁃  sign in to see synced bookmarks inflated too many times
-7014,fnx216084 ⁃  youtube previews are still shown if images are off
-7020,fnx216076 ⁃  nightly 200514 crashes when opening a website and trying to tapscroll
-7021,fnx213229 ⁃  suggestions for appearance menu  reader mode
-7022,fnx4451 ⁃  custom etp settings height should be increased to 48dp or larger
+7004,fnx216092   autocomplete doesnt remove text when it doesnt match users input with anysoftkeyboard
+7006,fnx216091   alimentaritorevelupcom never finished loading
+7007,fnx216090   reddit upload button does not work
+7009,fnx213231   application crashes when navigating to aboutprocesses
+7010,fnx216088   extensions randomly stop working
+7011,fnx216087   sign in to see synced bookmarks inflated too many times
+7014,fnx216084   youtube previews are still shown if images are off
+7020,fnx216076   nightly 200514 crashes when opening a website and trying to tapscroll
+7021,fnx213229   suggestions for appearance menu  reader mode
+7022,fnx4451   custom etp settings height should be increased to 48dp or larger
 7023, browser crashes when playing video on samsung with webrender enabled
 7024, maxlength in input field is not checked while typing
-7025,fnx4448 ⁃  context menu is not triggered when long pressing the aboutsupport page
-7026,fnx216070 ⁃  ui test failure validatebaselineping in orgmozillafenixgleanbaselinepingtest
-7027,fnx4446 ⁃  crash when tapping on the search bar while a page is loading on samsung device
-7028,fnx4445 ⁃  2fa recovery codes txt file can’t be download on fenix
-7029,fnx216065 ⁃  bookmarks always open in a new tab
-7032,fnx216061 ⁃  i cant click on items at the bottom of the page
-7033,fnx216059 ⁃  dotted red rectangles around some web elements
-7034,fnx216057 ⁃  x icon in collection should be remove from collection not close tab
-7036,fnx216054 ⁃  logins menu edit button has wrong content description
+7025,fnx4448   context menu is not triggered when long pressing the aboutsupport page
+7026,fnx216070   ui test failure validatebaselineping in orgmozillafenixgleanbaselinepingtest
+7027,fnx4446   crash when tapping on the search bar while a page is loading on samsung device
+7028,fnx4445   2fa recovery codes txt file cant be download on fenix
+7029,fnx216065   bookmarks always open in a new tab
+7032,fnx216061   i cant click on items at the bottom of the page
+7033,fnx216059   dotted red rectangles around some web elements
+7034,fnx216057   x icon in collection should be remove from collection not close tab
+7036,fnx216054   logins menu edit button has wrong content description
 7037, mobiletwittercomlogin is not loaded when opening it from avast password manager app
-7039,fnx4436 ⁃  consider increasing contrast of selected placeholder text for bookmarks and history
+7039,fnx4436   consider increasing contrast of selected placeholder text for bookmarks and history
 7040, safeincloud is not working on fenix for autofill
 7041, long press to select the text links or pasting the copied text takes a lot of time
-7042,fnx4426 ⁃  appopened telemetry event unexpectedly does not run on every app launch
-7045,fnx4767 ⁃  fenix ui test reports logging success with failures
+7042,fnx4426   appopened telemetry event unexpectedly does not run on every app launch
+7045,fnx4767   fenix ui test reports logging success with failures
 7048, cant add spotecloudglobal as search engine
-7050,fnx216044 ⁃  pusherrormalformedmessage key con is missing in the map
-7052,fnx216040 ⁃  autofill for loginpassword input manager doesnt work
+7050,fnx216044   pusherrormalformedmessage key con is missing in the map
+7052,fnx216040   autofill for loginpassword input manager doesnt work
 7054, tapping the telephone link from daleharveygithubiotestapp opens the color chooser
-7056,fnx213211 ⁃  cant open search by image addon settings
-7057,fnx216038 ⁃  ripple animation appears behind buttons in the new tab tray
-7058,fnx216036 ⁃  find bar shows 00 when you quickly press next
+7056,fnx213211   cant open search by image addon settings
+7057,fnx216038   ripple animation appears behind buttons in the new tab tray
+7058,fnx216036   find bar shows 00 when you quickly press next
 7059, save collection fails intermittently  needs dev investigation
-7063,fnx216031 ⁃  clipboard manager doesnt work on page editable fields
-7064,fnx216030 ⁃  hyperlinks not working consistently
-7065,fnx216028 ⁃  long presscontextual menu on address bar should have borders
+7063,fnx216031   clipboard manager doesnt work on page editable fields
+7064,fnx216030   hyperlinks not working consistently
+7065,fnx216028   long presscontextual menu on address bar should have borders
 7066, no leanplum event is firing when default browser is updated to firefox beta
 7067, crash in site permissions
 7069, classcast login crash
-7071,fnx216022 ⁃  video pauses as soon as user uses tab switcher
+7071,fnx216022   video pauses as soon as user uses tab switcher
 7072, selection outline for tab tray is changed only after the tab closed snack bar is dismissed
 7073, the opened in app external links are also opened in custom tab
 7075, cant select multiple details on the about firefox settings page
 7076, pixel line displayed on the about firefox page
 7077, the video cannot be seen as the url and website elements are displayed when a new video starts
-7078,fnx216019 ⁃ improper run in private browsing toggle movement
-7079,fnx216018 ⁃  tapping on the example link from add search engine opens the support page
-7081,fnx216015 ⁃  google search does not work
-7084,fnx216011 ⁃  i̇mage
+7078,fnx216019  improper run in private browsing toggle movement
+7079,fnx216018   tapping on the example link from add search engine opens the support page
+7081,fnx216015   google search does not work
+7084,fnx216011   image
 7085, browser freezes while browsing youtube for a longer period of time
-7086,fnx216010 ⁃ 
+7086,fnx216010  
 7087, other apps text selection menu search privately option can be misleading
-7088,fnx216009 ⁃  tabs are unloaded from memory too aggressively
+7088,fnx216009   tabs are unloaded from memory too aggressively
 7091, videos crash after the first loop
-7093,fnx216004 ⁃  back should not go tp the overview
-7094,fnx216002 ⁃  undefined crash on android 7 nvidia shield tablet when opening  browsing some websites
-7095,fnx216001 ⁃  remove dividers
-7097,fnx215999 ⁃  links to website for both preview and preview nightly are wrong in google play store
+7093,fnx216004   back should not go tp the overview
+7094,fnx216002   undefined crash on android 7 nvidia shield tablet when opening  browsing some websites
+7095,fnx216001   remove dividers
+7097,fnx215999   links to website for both preview and preview nightly are wrong in google play store
 7098, confusing behavior in site permissions exceptions
 7100, truncate effect displayed on the bookmark list after deleting a tab
-7101,fnx215996 ⁃  frequent crashes firefox preview 430 e 50
-7102,fnx4340 ⁃  tab switcher ui latency
-7103,fnx4338 ⁃  redundant save to collection button in 3 dot menu in overview
-7110,fnx215986 ⁃  onboarding radio buttons on api  22 are red
-7111,fnx215983 ⁃  notfoundexception file resdrawableonboardinglightthemexml from drawable resource id 0x7f080225
-7112,fnx215982 ⁃  tab tray doesnt scroll down to recently viewed tab
-7113,fnx215980 ⁃  fenix is stuck after a few second
+7101,fnx215996   frequent crashes firefox preview 430 e 50
+7102,fnx4340   tab switcher ui latency
+7103,fnx4338   redundant save to collection button in 3 dot menu in overview
+7110,fnx215986   onboarding radio buttons on api  22 are red
+7111,fnx215983   notfoundexception file resdrawableonboardinglightthemexml from drawable resource id 0x7f080225
+7112,fnx215982   tab tray doesnt scroll down to recently viewed tab
+7113,fnx215980   fenix is stuck after a few second
 7114, fenix app is terminated after zooming in the page a few times
-7116,fnx215978 ⁃  sometimes the menu cannot disappear and other operations cannot be performed
-7117,fnx213177 ⁃  twitter  something went wrong in tweets section
-7118,fnx4320 ⁃  checked radio button block audio and video on cellular data only is unchecked after exiting the menu
-7119,fnx215973 ⁃ cant install certain websites as pwas
-7120,fnx4317 ⁃ onboarding crash on android 5  6 devices
+7116,fnx215978   sometimes the menu cannot disappear and other operations cannot be performed
+7117,fnx213177   twitter  something went wrong in tweets section
+7118,fnx4320   checked radio button block audio and video on cellular data only is unchecked after exiting the menu
+7119,fnx215973  cant install certain websites as pwas
+7120,fnx4317  onboarding crash on android 5  6 devices
 7121, flicker displayed on collection list after deleting a page
 7122, cant scroll when the page is taking almost the entire screen
 7123, delay in hiding the run in private browsing for the htts everywhere addon
-7124,fnx215971 ⁃ regression the addons are reenabled after enabling run in private browsing
-7125,fnx215970 ⁃  nightly crashed on first page load
+7124,fnx215971  regression the addons are reenabled after enabling run in private browsing
+7125,fnx215970   nightly crashed on first page load
 7126, sharing a tab to a clean profile fenix build doesnt display the tab after tapping the tab counter
-7127,fnx215969 ⁃  new collections not listed when adding multiple ones from tab
-7128,fnx215968 ⁃  flaky test editbookmarktest
-7129,fnx215967 ⁃  blue dot doesnt appear at all
-7133,fnx215965 ⁃  history bookmarks should not use back to exit they should be closed
-7134,fnx215964 ⁃  tab titles turning to null when finished loading
-7135,fnx215963 ⁃  tab is not responding
-7137,fnx215961 ⁃  fenix crashes when opening tabs tray
-7138,fnx4291 ⁃  exiting fullscreen video in pwa causes toolbar to appear and content to be clipped
+7127,fnx215969   new collections not listed when adding multiple ones from tab
+7128,fnx215968   flaky test editbookmarktest
+7129,fnx215967   blue dot doesnt appear at all
+7133,fnx215965   history bookmarks should not use back to exit they should be closed
+7134,fnx215964   tab titles turning to null when finished loading
+7135,fnx215963   tab is not responding
+7137,fnx215961   fenix crashes when opening tabs tray
+7138,fnx4291   exiting fullscreen video in pwa causes toolbar to appear and content to be clipped
 7139, custom tab share icon looks offscaled enlarged
-7140,fnx4289 ⁃  custom tab toolbar doesnt have correct theme when private tab is on
-7141,fnx4288 ⁃  yellow bounding box on certain elements
+7140,fnx4289   custom tab toolbar doesnt have correct theme when private tab is on
+7141,fnx4288   yellow bounding box on certain elements
 7142, pip  settings element overlaps the close button from the new window from device
 7143, gradlew lint remains stuck in an infinite loop and eats up all available memory
-7145,fnx215954 ⁃  open links in apps doesnt work on some websites
+7145,fnx215954   open links in apps doesnt work on some websites
 7146, both onedrive and fenix menus are triggered when long tapping on an item
-7147,fnx215953 ⁃  getprocessstarttimeticks crash
-7148,fnx215952 ⁃  browser toolbar related crashes in 500 build pip
-7149,fnx215950 ⁃  cannot invoke observeforever on a background thread crash
-7150,fnx4750 ⁃  unable to save downloaded files
-7151,fnx4280 ⁃  intermittent downloads getting stuck
-7152,fnx4748 ⁃  downloads not starting when they should be
+7147,fnx215953   getprocessstarttimeticks crash
+7148,fnx215952   browser toolbar related crashes in 500 build pip
+7149,fnx215950   cannot invoke observeforever on a background thread crash
+7150,fnx4750   unable to save downloaded files
+7151,fnx4280   intermittent downloads getting stuck
+7152,fnx4748   downloads not starting when they should be
 7153, cannot open zip file after downloading from fenix
 7155, screen does not render when going back from footnote hyperlink
-7156,fnx4264 ⁃  downloading jpg from fx send not working
-7157,fnx215940 ⁃  opening app crashes and restarts tablet pc
+7156,fnx4264   downloading jpg from fx send not working
+7157,fnx215940   opening app crashes and restarts tablet pc
 7158, restored tabs from collections show old cached content
-7159,fnx215939 ⁃  downloading link could not open link message present when downloading an html file
-7161,fnx3525 ⁃  battery regression after migrating from fennec
-7162,fnx215936 ⁃  very slow performance and crashes when opening a png image of a map in a new tab
-7163,fnx215934 ⁃  unable to download png image
-7164,fnx3521 ⁃  crash on rapid selection of tabs and three dot menu
-7165,fnx213157 ⁃  incorrect touch animation on new tab button
-7168,fnx213154 ⁃  if you have only one search engine it still shows this time search with option during search
-7169,fnx215927 ⁃  no indication that webextensions dont run in private browsing mode
-7171,fnx215926 ⁃  small visual updates for dedicated tab tray
-7172,fnx213153 ⁃  pressing back on external tab does not go back to previous app
-7173,fnx215925 ⁃  collections not listed when adding from directly opened tab
-7174,fnx215924 ⁃  remove option to save to collection from pbm in dedicated tab tray
-7175,fnx215929 ⁃  mailto url dont work
-7177,fnx213152 ⁃  cant interact using one finger on pip if talkback is enabled
+7159,fnx215939   downloading link could not open link message present when downloading an html file
+7161,fnx3525   battery regression after migrating from fennec
+7162,fnx215936   very slow performance and crashes when opening a png image of a map in a new tab
+7163,fnx215934   unable to download png image
+7164,fnx3521   crash on rapid selection of tabs and three dot menu
+7165,fnx213157   incorrect touch animation on new tab button
+7168,fnx213154   if you have only one search engine it still shows this time search with option during search
+7169,fnx215927   no indication that webextensions dont run in private browsing mode
+7171,fnx215926   small visual updates for dedicated tab tray
+7172,fnx213153   pressing back on external tab does not go back to previous app
+7173,fnx215925   collections not listed when adding from directly opened tab
+7174,fnx215924   remove option to save to collection from pbm in dedicated tab tray
+7175,fnx215929   mailto url dont work
+7177,fnx213152   cant interact using one finger on pip if talkback is enabled
 7178,pip doesnt interact with talkback using google pixel 3
 7181, selecting share options in twitter will pop up tool bar
-7185,fnx215916 ⁃  spam spam spam
+7185,fnx215916   spam spam spam
 7186, push tabs to android device fails
 7188, text selection can cause scrolling of page
 7189, settimeout and setinterval not honored under events possibly
 7192, it is too hard to savemove a selection of tabs into collections via tab tray
-7194,fnx215907 ⁃  tab tray buttons have bad contrast in dark theme with on screen buttons
+7194,fnx215907   tab tray buttons have bad contrast in dark theme with on screen buttons
 7198,  open in new tab should insert tab below current tab rather than above
-7201,fnx215905 ⁃  touch area of bottommost 3dot context menu items is too small
-7204,fnx3453 ⁃  downloading pdf results in blank file
-7205,fnx215898 ⁃  navigating home from tab tray flashes the browserfragment
-7206,fnx215896 ⁃  intermittent test failure orgmozillafenixperfstartuphomeactivitylifecycleobservertest
-7212,fnx215890 ⁃  flash when navigating from tab tray to homescreen
-7215,fnx215887 ⁃  javalangillegalstateexception migration didnt properly handle topsitesmozillacomponentsfeaturetopsitesdbtopsiteentity
-7219,fnx3438 ⁃  nightly crashex
-7223,fnx3433 ⁃  native code crash when trying to navigate to different websites on oneplus a3 android 601
-7224,fnx3432 ⁃  the toolbar appears on pwas if backgrounded
-7226,fnx215868 ⁃  content area brieflyblindingly flashes white before turning solid black for pageload when android and fenix both configured for dark theme
-7227,fnx215865 ⁃  dark reader extension not working on mozilla websites
+7201,fnx215905   touch area of bottommost 3dot context menu items is too small
+7204,fnx3453   downloading pdf results in blank file
+7205,fnx215898   navigating home from tab tray flashes the browserfragment
+7206,fnx215896   intermittent test failure orgmozillafenixperfstartuphomeactivitylifecycleobservertest
+7212,fnx215890   flash when navigating from tab tray to homescreen
+7215,fnx215887   javalangillegalstateexception migration didnt properly handle topsitesmozillacomponentsfeaturetopsitesdbtopsiteentity
+7219,fnx3438   nightly crashex
+7223,fnx3433   native code crash when trying to navigate to different websites on oneplus a3 android 601
+7224,fnx3432   the toolbar appears on pwas if backgrounded
+7226,fnx215868   content area brieflyblindingly flashes white before turning solid black for pageload when android and fenix both configured for dark theme
+7227,fnx215865   dark reader extension not working on mozilla websites
 7230, google keyboard doesnt always show up in private browsing
 7236, bbc sounds stops playing
-7237,fnx3411 ⁃  dynamic navbar isnt working when toolbar is set to the bottom
-7238,fnx3410 ⁃  addon run in private browsing option resets when app is restarted
-7239,fnx215856 ⁃  tapping on the url bar from a loaded page doesnt display the clearx button
-7240,fnx3408 ⁃  video doesnt automatically play with default autoplay setting
-7241,fnx3407 ⁃  after accessing a soundtrack loading icon is present but the audio starts playing
-7242,fnx213123 ⁃ common myth hyperlink and other links in app provide confusing description and action info for screen readers
+7237,fnx3411   dynamic navbar isnt working when toolbar is set to the bottom
+7238,fnx3410   addon run in private browsing option resets when app is restarted
+7239,fnx215856   tapping on the url bar from a loaded page doesnt display the clearx button
+7240,fnx3408   video doesnt automatically play with default autoplay setting
+7241,fnx3407   after accessing a soundtrack loading icon is present but the audio starts playing
+7242,fnx213123  common myth hyperlink and other links in app provide confusing description and action info for screen readers
 7243,flicker while navigating through the desktop bookmark folders
-7244,fnx3404 ⁃ search barclear search button not displayed for preselected url
-7245,fnx215852 ⁃  top site uses only 4 elementssites spaces instead of 5
-7246,fnx215851 ⁃  crash when signing in through pairing on android 56 devices
-7247,fnx3401 ⁃  sign in from onboarding on android 56 devices loops
-7249,fnx3399 ⁃ crash when opening the bookmarks  history section on devices with android 5  6
+7244,fnx3404  search barclear search button not displayed for preselected url
+7245,fnx215852   top site uses only 4 elementssites spaces instead of 5
+7246,fnx215851   crash when signing in through pairing on android 56 devices
+7247,fnx3401   sign in from onboarding on android 56 devices loops
+7249,fnx3399  crash when opening the bookmarks  history section on devices with android 5  6
 7255, task status badge in readme is broken
 7257, diggcom sometimes does not refresh page when pressing back from article
-7259,fnx213113 ⁃  http basic authentication dialog is not offered again on submitting invalid credentials
-7262,fnx215821 ⁃  error consulting the addons
+7259,fnx213113   http basic authentication dialog is not offered again on submitting invalid credentials
+7262,fnx215821   error consulting the addons
 7263, pull down to refresh works for any swipes
-7265,fnx3381 ⁃  fenix freezes after opening link
-7266,fnx3382 ⁃ native code crash when trying to install addons
-7267,fnx215816 ⁃  ublockoriginicon is cut off
-7268,fnx215815 ⁃  visual bug text overlaps in private mode
-7269,fnx4729 ⁃  permissions not always saved on first run
+7265,fnx3381   fenix freezes after opening link
+7266,fnx3382  native code crash when trying to install addons
+7267,fnx215816   ublockoriginicon is cut off
+7268,fnx215815   visual bug text overlaps in private mode
+7269,fnx4729   permissions not always saved on first run
 7270, image doesnt render in its full resolution
 7272, focus is not on page after switching tabs or opening new url
 7273, unable to add qwant maps to qwant masq
-7275,fnx215807 ⁃ 60fps instead of 120fps on op8pro
-7276,fnx215805 ⁃  bookmarklets are being redirected to searches
+7275,fnx215807  60fps instead of 120fps on op8pro
+7276,fnx215805   bookmarklets are being redirected to searches
 7277, cannot autofill password on some sites
 7278, top toolbar interferes with scroll axis locking horizontal
 7279, horizontal scroll bar moves with top toolbar when scrolling vertically
-7283,fnx3360 ⁃  firefox crash when switching to tab from home screen shortcut
-7284,fnx215798 ⁃  single home screen shortcut results in multiple tabs
-7285,fnx215797 ⁃  firefox shows blank screen when the tab was shut after launching from home screen shortcut
-7286,fnx213097 ⁃  task switcher has multiple instances of firefox
-7287,fnx215794 ⁃  some websites dont allow browsing away
+7283,fnx3360   firefox crash when switching to tab from home screen shortcut
+7284,fnx215798   single home screen shortcut results in multiple tabs
+7285,fnx215797   firefox shows blank screen when the tab was shut after launching from home screen shortcut
+7286,fnx213097   task switcher has multiple instances of firefox
+7287,fnx215794   some websites dont allow browsing away
 7288, unable to browse from webpage
-7290,fnx215792 ⁃  settingsfragment illegalstateexception crash
-7291,fnx215791 ⁃  tab tray visuals are slightly off
+7290,fnx215792   settingsfragment illegalstateexception crash
+7291,fnx215791   tab tray visuals are slightly off
 7292, dynamic toolbar not displayed while the page is loading
 7293, long pressing a tab to add to collections takes you to the bottom
-7294,fnx215789 ⁃  behavior of back button is inconsistent when focus is on address bar
-7295,fnx3348 ⁃ run in private browsing should remain enabled even if the user disables the addon
-7296,fnx3347 ⁃  private browsing setting can reenable addon
-7297,fnx215785 ⁃ dark reader is missing from the main menu after reenabling it
-7299,fnx3344 ⁃  zooming in on a web page will make the address bar appear
-7300,fnx3343 ⁃  add shortcut for pb popup has a large space between the text and the buttons
+7294,fnx215789   behavior of back button is inconsistent when focus is on address bar
+7295,fnx3348  run in private browsing should remain enabled even if the user disables the addon
+7296,fnx3347   private browsing setting can reenable addon
+7297,fnx215785  dark reader is missing from the main menu after reenabling it
+7299,fnx3344   zooming in on a web page will make the address bar appear
+7300,fnx3343   add shortcut for pb popup has a large space between the text and the buttons
 7301, location popup is dismissed only after double tapping it
-7303,fnx215779 ⁃  reader mode sometimes renders content in corner of page
-7304,fnx3339 ⁃ cant open youtube by tapping on his icon from the open tabs list if a video was playing
+7303,fnx215779   reader mode sometimes renders content in corner of page
+7304,fnx3339  cant open youtube by tapping on his icon from the open tabs list if a video was playing
 7305,gboard not being correctly hinted
 7306, scrolling while toolbar is hidden causes scroll to hit a speed bump
-7311,fnx215772 ⁃  javautilconcurrentmodificationexception gleaninternalapiinitialize1invokesuspend
-7312,fnx215770 ⁃ testsestestestest
+7311,fnx215772   javautilconcurrentmodificationexception gleaninternalapiinitialize1invokesuspend
+7312,fnx215770  testsestestestest
 7314, add to device homescreen doesnt always work the first time
-7315,fnx213086 ⁃  top sites favicon unexpectedly disappeared
-7317,fnx215768 ⁃  when enabledisable or settting allowing private browsing fails should go back to previous state
+7315,fnx213086   top sites favicon unexpectedly disappeared
+7317,fnx215768   when enabledisable or settting allowing private browsing fails should go back to previous state
 7319, glitching graphics when scrolling website
-7321,fnx215764 ⁃  white screen during page load
-7324,fnx215761 ⁃  test 2
-7326,fnx215759 ⁃  test
+7321,fnx215764   white screen during page load
+7324,fnx215761   test 2
+7326,fnx215759   test
 7327, sync shows last synced 2 days ago even after sucessfull manual sync
 7329, text selection toolbar is positioned over navigation bar
 7330, camera and microphone running notifications are kept after closing the app
 7331, extensions effect custom tabs but cannot be controlled
-7332,fnx3310 ⁃  changing site permissions from the site info panel doesnt work
-7333,fnx3309 ⁃ web extensions dont work and arent displayed in private browsing
-7334,fnx3308 ⁃  the font size pointer is cutout when selecting the 50 in the accessibility menu
-7336,fnx215752 ⁃  2fa with nfc hardware key doesnt work
-7337,fnx215751 ⁃  nfc yubikey support
-7338,fnx3303 ⁃  when requesting location permission android system dialog appears after app modal bottom sheet
+7332,fnx3310   changing site permissions from the site info panel doesnt work
+7333,fnx3309  web extensions dont work and arent displayed in private browsing
+7334,fnx3308   the font size pointer is cutout when selecting the 50 in the accessibility menu
+7336,fnx215752   2fa with nfc hardware key doesnt work
+7337,fnx215751   nfc yubikey support
+7338,fnx3303   when requesting location permission android system dialog appears after app modal bottom sheet
 7342, elements do not have correct colors
-7344,fnx3298 ⁃  heavy janking and slow stuttery scroll on nyt amp page
-7345,fnx3297 ⁃  add on not loaded
-7346,fnx3296 ⁃  talkbackaddonssnackbar not read when multiple addons installed
-7347,fnx3295 ⁃  the login capture panel is incorrectly displayed when opening the keyboard
-7349,fnx3293 ⁃  the text selector is barely visible on lightdark theme on the login capture panel
+7344,fnx3298   heavy janking and slow stuttery scroll on nyt amp page
+7345,fnx3297   add on not loaded
+7346,fnx3296   talkbackaddonssnackbar not read when multiple addons installed
+7347,fnx3295   the login capture panel is incorrectly displayed when opening the keyboard
+7349,fnx3293   the text selector is barely visible on lightdark theme on the login capture panel
 7350, fenix remains stuck on the home screen if opening the 3 dot menu right after launching the app
-7351,fnx3291 ⁃  talkbackbrowse privatelyicons description is not correctly identified
-7352,fnx3290 ⁃  crash on clicking just to the left of the first tab in overview
+7351,fnx3291   talkbackbrowse privatelyicons description is not correctly identified
+7352,fnx3290   crash on clicking just to the left of the first tab in overview
 7353, history items under label last 24 hours are actually since midnight
 7355, some websites cannot switch to desktop mode correctly
 7357, font inflation issue on rexdlcom
 7360,  allowing screenshot in private browsing is applied only after reopening the browser
-7362,fnx3278 ⁃  seekbar thumb in accessibility settings is cut off at minimum value
-7363,fnx3276 ⁃  improperly displayed and moving overlays after opening fenix from the widget
-7364,fnx215726 ⁃  the cursor jumps around while trying to select the text same as bug 8072
-7365,fnx215724 ⁃  pages with embedded content sometimes scroll toolbar sometimes doesnt like github
+7362,fnx3278   seekbar thumb in accessibility settings is cut off at minimum value
+7363,fnx3276   improperly displayed and moving overlays after opening fenix from the widget
+7364,fnx215726   the cursor jumps around while trying to select the text same as bug 8072
+7365,fnx215724   pages with embedded content sometimes scroll toolbar sometimes doesnt like github
 7366, moving cursor in the text field sometimes takes to the bottom of the page
-7367,fnx215721 ⁃  web telegram pwa has a white space left when the bottom address bar disappear during scroll
-7368,fnx215720 ⁃  extensions randomly completely stop working
-7370,fnx215716 ⁃  open settings links as regular links not custom tabs
-7374,fnx215711 ⁃  cannot select text in a text field on long press
+7367,fnx215721   web telegram pwa has a white space left when the bottom address bar disappear during scroll
+7368,fnx215720   extensions randomly completely stop working
+7370,fnx215716   open settings links as regular links not custom tabs
+7374,fnx215711   cannot select text in a text field on long press
 7375, weird graphic glitches when using dark reader extension
 7379, unable to add spiegelde to homescreen on sony device running android 6
-7381,fnx215702 ⁃  in settings  accessibility  font size the values are incorrect for screen reader users
-7382,fnx215701 ⁃  unable to enable disabled addons
+7381,fnx215702   in settings  accessibility  font size the values are incorrect for screen reader users
+7382,fnx215701   unable to enable disabled addons
 7383, ephemeral dialogs should respect androids time to take action setting
-7385,fnx215700 ⁃  sometimes the dynamic address bar at the bottom cannot appear
+7385,fnx215700   sometimes the dynamic address bar at the bottom cannot appear
 7387, twitters bottom bar doesnt look properly when firefox url bar is on top
-7388,fnx215699 ⁃  very slow page loading on reddit around 4x slower than chromium
-7389,fnx215698 ⁃  cant get dynamic toolbar to appear sometimes
-7394,fnx215692 ⁃  allow search suggestions in private sessions overlaps this time search with text
-7395,fnx215691 ⁃  address bar context menu cannot be dismissed without selecting an option from menu
-7396,fnx213050 ⁃  changing talkback setting while browsing doesnt change toolbar scroll flags
-7398,fnx215686 ⁃  cant open magnet and emule link
-7399,fnx213049 ⁃  external links do not work in dark reader panel
-7400,fnx215683 ⁃  if you navigate in fullscreen mode you get trapped in fullscreen mode forever with browser toolbar missing from that point on
-7401,fnx215682 ⁃  incomplete intent filter for customtabsservice
+7388,fnx215699   very slow page loading on reddit around 4x slower than chromium
+7389,fnx215698   cant get dynamic toolbar to appear sometimes
+7394,fnx215692   allow search suggestions in private sessions overlaps this time search with text
+7395,fnx215691   address bar context menu cannot be dismissed without selecting an option from menu
+7396,fnx213050   changing talkback setting while browsing doesnt change toolbar scroll flags
+7398,fnx215686   cant open magnet and emule link
+7399,fnx213049   external links do not work in dark reader panel
+7400,fnx215683   if you navigate in fullscreen mode you get trapped in fullscreen mode forever with browser toolbar missing from that point on
+7401,fnx215682   incomplete intent filter for customtabsservice
 7402, botton dynamic navigation bar does not hide with a single swipe and does it but leaves white spaces
-7405,fnx215680 ⁃  webpush messages are not properly delivered
-7406,fnx215679 ⁃  instead of dot release beta version apk of 421
+7405,fnx215680   webpush messages are not properly delivered
+7406,fnx215679   instead of dot release beta version apk of 421
 7407, intermittent test failure in settingsprivacytest
 7408, newlyavailable addons that were installed before preview cannot be enabled
 7409, addon warning icon reasonadditional information seems inaccessible
@@ -3843,7 +3841,7 @@
 7652, onboarding screen  touch target items need to be made larger
 7653, slowed down icon load animation
 7654, incorrect behavior when tapping back from a website opened with voice from search widget
-7655,fnx3375 ⁃  addon icons flicker after addon is installed
+7655,fnx3375   addon icons flicker after addon is installed
 7656, onboarding screenthe text contrast ratio needs to be higher
 7657, software keyboard raised for location bar only on second attempt
 7658, ubo stuck on whatever language is set after restart
@@ -3854,7 +3852,7 @@
 7663, enhanced tracking protection wont stay on
 7664,firefoxpreviewv420armapkwhen i install it and i found this is a beta versionits 420beta3  
 7665, homemenu button highlight colour isnt right high priority items
-7666, “select tabs” string is cut out in french
+7666, select tabs string is cut out in french
 7667, etp title and description are cut out in french
 7668, performance leanplum delays app link nonstartup for 10100ms by doing sql on the ui thread
 7669, fenix crashes on start
@@ -3903,7 +3901,7 @@
 7736, call forceexpand when navigating in a session
 7739, context menu entry select all should use titlestyle capitalization
 7740, firefox previewnightly search should appear immediately after copy and select all
-7741,fnx216256 ⁃ dark reader doesnt work on linkedin
+7741,fnx216256  dark reader doesnt work on linkedin
 7742, tapping on deny from the camera permission doesnt redirect the user to the previous screen turn on sync
 7743,back and forward buttons not updated in custom tabs
 7745, firefox search not working in custom tabs
@@ -4001,7 +3999,7 @@
 7885,improperly opened ublock logger and dashboard in private mode while having them opened in normal browsing and vice versa
 7889, nightly app updating even when autoupdates are off
 7891, empty verified by in site info pane
-7892,无法复制带有链接的文本unable to copy text with linkgoogle translate
+7892,unable to copy text with linkgoogle translate
 7894,the outline for topbottom buttons has no colors
 7895, entire viewport goes white when scrolling quickly on twitter menu navbar and post icons disappear
 7896, no haptic feedback on twitter pull to refresh
@@ -4017,7 +4015,7 @@
 7912, empty settings view after tapping the back button
 7913, crash when denying apps access to camera but allowing access to the site
 7914, twitter pwa navigation bar navbar is offset from bottom of screen and overlays main content
-7916, ioexception orgmozillageckoviewwebrequesterror request failed error0x25 – when no network
+7916, ioexception orgmozillageckoviewwebrequesterror request failed error0x25 when no network
 7917, browser  home when keyboard expanded has a weird animation
 7918, make home  search  browser  search animation play nicely with top toolbar
 7919,the history section is displayed for a couple of seconds while exiting to fenixs home screen
@@ -4073,7 +4071,6 @@
 7993,pocket default top site doesnt work
 7994,open tabs animation issue after reopening fenix
 7995,reopening a page after force closing fenix automatically navigates back to the previous page
-7996,网页显示问题
 7998, discord links dont go to discord app
 7999, vertical scrollbar misleading when bottom bar is hidden
 8000, xkcdcom rendered improperly on scroll
@@ -4103,7 +4100,7 @@
 8027, keyboard doesnt hide when going to settings on some devices
 8028, crash when approving the password update
 8029,broken test app color selection in both the browser and in custom tabs
-8030,floating custom tabs ⋮ main menu 3dot menu overlay after rotation
+8030,floating custom tabs  main menu 3dot menu overlay after rotation
 8031, font inflation and css column collisions
 8033, dark theme toolbar home screen regression
 8036, web apps  external links inside web app open in web app activity rather than in separate firefox activity
@@ -4323,7 +4320,7 @@
 8342, the filter logger content bar is covered by the ublock site specific option
 8343, the ublock icon is selected when is tapped
 8344,  some options from settings arent translated in some languages
-8345,missing add to home screen button from the ⋮ main menu 3dot menu overlay
+8345,missing add to home screen button from the  main menu 3dot menu overlay
 8346, delete login action should have confirmation dialog
 8348, firefox preview fenix doesnt support u2f tokens
 8357, play store crash illegalstateexception on requirecontext
@@ -4331,9 +4328,9 @@
 8359, sentry crash fragment manager has been destroyed
 8361, 1 second delay in page load from browser resizing during url navigations
 8362, when set as the default browser app cannot sign into expensify
-8364,moving ⋮ main menu 3dot menu overlay after switching to landscape mode
+8364,moving  main menu 3dot menu overlay after switching to landscape mode
 8365, fenix is unusably slow 
-8366,improperly displayed ⋮ main menu 3dot menu overlay in landscape mode
+8366,improperly displayed  main menu 3dot menu overlay in landscape mode
 8367, launching the app with private shortcut will keep the pb theme on normal browsing too
 8368, unable to reorder tabs
 8369, migration from firefox for android to fenix lose application locking huawei emui
@@ -4444,12 +4441,12 @@
 8509, ublock origin settings in nightly cannot save or restore settings
 8510, no search option on highlighted text
 8511, the dashboard requested in private mode opens in normal mode
-8512,crash after tapping “addons” while not being connected to the internet 
+8512,crash after tapping addons while not being connected to the internet 
 8513,broken ublock link icon to addonsmozillaorg on android 5  6 devices
 8514, make etp options from onboarding screen selectable
 8515,ublock onoff button flicker
 8516,ublock settings freeze after tapping the reset to default settings button
-8517,crash after tapping 🛈 icon from ublock settings
+8517,crash after tapping  icon from ublock settings
 8518,crash after tapping required reading link from ublock settings
 8519,improperly displayed ublock icons using the light theme 
 8521, ioexception crash when clicking a link on cnu under low bandwidth
@@ -4956,7 +4953,7 @@
 9374, fc53ac78f6434eef9f636ec479a1872c
 9376, normalprivate and privatenormal transition animations dont feel consistent
 9377, jarring pop in during normalprivate transitions
-9378, no open tabs”private mode explanation is briefly shown when tabs exist
+9378, no open tabsprivate mode explanation is briefly shown when tabs exist
 9379, home title text overlaps during normalprivate transition
 9380, tabs briefly have incorrect colors while switching browsing mode
 9381, add back force expand to dynamic top toolbar
