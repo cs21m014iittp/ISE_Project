@@ -1,0 +1,346 @@
+-------------------------------------------------------------------------
+review:-
+absolute trash why on earth would you want to store payment info please fix how much data is used  please sort out the bookmarks bookmarks are not user friendly at all it needs to remember your last location in bookmark folders instead of having to go through then again to get to where you just were difficult to access saved logins  get back to the page you were on i dont allow this to use battery in the background yet it still does  cant reorder top sites
+
+Match 1:
+ back button in root bookmarks folder in bookmarks page isnt disabled or hidden
+similarity score: 0.908554032917056
+
+Match 2:
+cant create new bookmarks folder due to 6974
+similarity score:  0.8941105722488448
+
+Match 3:
+ you can place a bookmarks folder inside itself deleting it after this does not work
+similarity score:  0.8927205296660252
+
+-------------------------------------------------------------------------
+review:-
+unusable on samsung galaxy phones since 2021 major update fenix big fan of the app but after months of struggling it is ending up in the bin hello duck duck basically every time you leave firefox to use a 2fa app copy content from another app validate a payment in your bank app  and come back to it 3 seconds after all the tabs are reloaded and the current state is lost all battery optimisation settings set in favor of the app though
+
+Match 1:
+fnx216373   new tabs tray gets blank for a while when the back button is pressed two times quickly or going to the androids homescreen and coming back
+similarity score: 0.9017691390439947
+
+-------------------------------------------------------------------------
+review:-
+almost satisfactory needs drag down to refresh for ease of checking that web page is properly loaded also you need to fix the issue with losing all private tabs if battery dies and phone shuts off
+
+Match 1:
+fnx216373   new tabs tray gets blank for a while when the back button is pressed two times quickly or going to the androids homescreen and coming back
+similarity score: 0.8902378669052092
+
+-------------------------------------------------------------------------
+review:-
+firefox now removes the buttons from android and operates in a full screen mode making it so you cant read the time or see your battery nor can you easily access the home back and index buttons i dont know if this is a new feature or a new bug but it makes using the browser more of a hassle than a convenience
+
+Match 1:
+when pressing the firefox preview icon on the homescreen a different app opens 
+similarity score: 0.8921423849855389
+
+-------------------------------------------------------------------------
+review:-
+overall quite stablethe synced tabs feature is very useful for viewing my desktop tabs on the go it is also compatible with the firefox quantum desktop addons ublock origin on an android phone is awesome my only gripe is that firefox on android can be a bit heavy on battery usage
+
+Match 1:
+ send tab to devicefenix from other device not showing notification on firefox android until share icon tapped
+similarity score: 0.8993997940095859
+
+Match 2:
+ when accessing fenix search from the widget system back or swipe back should go to the android homescreen
+similarity score:  0.8921290783130768
+
+Match 3:
+tapping the android back button while having as current tab a ublock link closes the tab
+similarity score:  0.892111498761242
+
+-------------------------------------------------------------------------
+review:-
+its great especially adblocker but the issue is with streaming sites its not well optimised at least not as chrome  uses more battery  also navigation guesture sucks new tabs are pane and cant perform slide guesture to change tabs
+
+Match 1:
+ add new tab plus button is impossible to see in private mode when using light theme and accessibility settings ex talkback is on
+similarity score: 0.8923800495193359
+
+-------------------------------------------------------------------------
+review:-
+the new geckoview based browser has been heating up my phone and constantly crashing or acting strange after opening too many tabs tab list blank control widgets disappearing ever since it was released last year im sure its amazing on current phones but its an absolute hog on my 2014 note4 hate to be forced to another browser but its currently unusable for me
+
+Match 1:
+ when accessing fenix search from the widget system back or swipe back should go to the android homescreen
+similarity score: 0.8964946032390394
+
+Match 2:
+ back button does not work when fenix is launched using search widget clicking makes browser completely unresponsive
+similarity score:  0.8923084246194027
+
+-------------------------------------------------------------------------
+review:-
+i watch yt videos on firefox due to background playback support but due to some reason the video stops when i reload the firefox the tab refreshes and loads this is so frustrating please fix asap i dont have settings like battery saver on
+
+Match 1:
+fnx215659   save to collection button in home screen even with 0 tabs
+similarity score: 0.8909986209131979
+
+-------------------------------------------------------------------------
+review:-
+cannot import bookmarks drains battery few extensions white line at top of the browser laggy when browsing large forum threads
+
+Match 1:
+ opening an empty page with windowopen in custom tab causes unresponsive browser
+similarity score: 0.9007055662085511
+
+Match 2:
+fnx216663   regression large gap on delete browsing data on quit screen
+similarity score:  0.8952337373558061
+
+-------------------------------------------------------------------------
+review:-
+xfininily network charge keyboard english message send emails tellusmore skydevice comwelcome to gboard clipboard any text you copy will be saved here
+
+Match 1:
+ clicking back on sentry socorro links opened from aboutcrashes closes the browser
+similarity score: 0.8963841624775015
+
+Match 2:
+ fennec migration looking for your logins message card is displayed after entering primary password and returning to home screen
+similarity score:  0.8948090343351407
+
+-------------------------------------------------------------------------
+review:-
+horrific usability bookmarks not easily accessible also runs in background and drains battery despite removing autostart permissions ff for desktop my favorite browser just not for mobile
+
+Match 1:
+ when accessing fenix search from the widget system back or swipe back should go to the android homescreen
+similarity score: 0.9027831605077205
+
+Match 2:
+ open in app opens the chrome browser if pocket onboarding is not doneskipped
+similarity score:  0.9007240949794089
+
+Match 3:
+ after pressing on accept the risk and continue in the notification secure connection failed firefox for android marks untrusted by any reason https site connection as secure bugzilla 1714582
+similarity score:  0.8974630057129905
+
+-------------------------------------------------------------------------
+review:-
+ruined it they totally ruined the fact that firefox for android used to be a very low power consuming browser among the others from the store and now turned this into a battery draining one speed has significantly improved but  undo closed tab notice appears at a very inconvenient place while using the screen horizontally  tabs placements now cannot be reorganized in the drawer like it was always possible in the previous versions by simply dragging them around way to go mozilla 
+
+Match 1:
+fnx216373   new tabs tray gets blank for a while when the back button is pressed two times quickly or going to the androids homescreen and coming back
+similarity score: 0.9059992573721641
+
+-------------------------------------------------------------------------
+review:-
+not private not acceptable even though all privacy and security settings are set to the most restricted level and i use qwant as search engine im still targeted with ads in other apos that are clearly and directly related to my previous searches in the firefox browser in addition this app runs in the background and uses ca 3 of battery per hour even though background activity is disabled
+
+Match 1:
+ after pressing on accept the risk and continue in the notification secure connection failed firefox for android marks untrusted by any reason https site connection as secure bugzilla 1714582
+similarity score: 0.9047417870750804
+
+Match 2:
+ when accessing fenix search from the widget system back or swipe back should go to the android homescreen
+similarity score:  0.8986858466850277
+
+Match 3:
+fnx215319   search widget open private mode tabs if browser is in pbm
+similarity score:  0.8952055894364815
+
+-------------------------------------------------------------------------
+review:-
+firefoxs latest update has shattered the app for normal usage links to the most popular site links twitter google etx no longer work the preview for browser tabs has been replaced with an unreadable slot interface and everything defaults to starting a new tab when you come back to the app resulting in multiple tabs sapping processing power this update has forced me to stop using firefox on my phone for the first time since investing in a smartphone its a real shame
+
+Match 1:
+ lost tabs after firefox is not responding wait or close app was displayed after restarting the app
+similarity score: 0.8938172908985041
+
+Match 2:
+ this app wasnt found in the list of installed apps toast when fenix settings  notifications clicked
+similarity score:  0.8918493826421539
+
+Match 3:
+ inconsistent recent app view when having private tabs tray opened
+similarity score:  0.8908323851012434
+
+-------------------------------------------------------------------------
+review:-
+i have been a user of firefox for the past 10 plus years and never thought to use another browser as the functionality was excellent new version eats battery crashes three or four times daily fails to load many sites hangs at 25 load bar doesnt auto fill my saved usernames and passwords saved against my account unless i search for them and load from the menu dropdown etc i have now reluctantly switched to chrome please fix or give us back the previous version before firefox daylight
+
+Match 1:
+ when signedin and accessing the accountsfirefoxcom page from history the page loads indefinitely
+similarity score: 0.8968055159290702
+
+Match 2:
+in the new firefoxbetaversion the softkeys on my tablet cannot be used  are not  displayed
+similarity score:  0.890591862947188
+
+-------------------------------------------------------------------------
+review:-
+you have to keep the app open in the background now if you dont want it to automatically default to the mozilla homepage every time you open it even though mozilla boasts about tracking protection etc i often get firefox is using battery notifications if i dont completely close it unimpressed with this update considering changing browsers if its not fixed
+
+Match 1:
+ this app wasnt found in the list of installed apps toast when fenix settings  notifications clicked
+similarity score: 0.9052167739756403
+
+Match 2:
+when pressing the firefox preview icon on the homescreen a different app opens 
+similarity score:  0.9036588718878384
+
+Match 3:
+ when accessing fenix search from the widget system back or swipe back should go to the android homescreen
+similarity score:  0.9001688567470832
+
+-------------------------------------------------------------------------
+review:-
+the new update has removed most characteristic and likable features of firefox long time an example of customizability and power this browser became so overstyled and streamlined that it falls in no category of usability anymore how can you do this drastic change on a simple update from which the people can not roll back
+
+Match 1:
+ firefox update completely ruined the usability of the browser  i might as well uninstall it as fight with it
+similarity score: 0.9105943381421707
+
+-------------------------------------------------------------------------
+review:-
+android version unfortunately still terrible after first fix to v80 very awkward access to bookmarks worse even in incognito the incognito start screen improves nothing and requires more clicks and motion for everything switching to just opened tab frequently requires scrolling despite performance claims loading sites is painfully slow serious lags in particular on mediajsheavy sites dialogues on sites frequently unclickable or jumping around battery usage is through the roof
+
+Match 1:
+ in latest version of firefox nightly address bar is raised a little bit resulting bottom chin while viewing webpages
+similarity score: 0.891013507209884
+
+-------------------------------------------------------------------------
+review:-
+this is a great browser with good ergonomics unfortunately there are some issues the first issue is that sometimes after resuming the browser a page doesnt load the only way to overcome this is to copy an url and follow it the second issue is a glitch line at the bottom of a page where an unsuitable part of a page is displayed it doesnt depend on the browser bar location the third issue is the battery drain even in the background when the browser hasnt been used for a long time
+
+Match 1:
+ bottom urlnavigation bar obscures bottom of page content on a short website where there is no scrolling the hidden content cannot be viewed as there is no way to scroll to hide the url bar
+similarity score: 0.9083293773024725
+
+-------------------------------------------------------------------------
+review:-
+awful after the latest update unstable on older hardware tabs structure makes no sense and gets even the basics wrong  which tab is what and which tab is open always opens up a new tab on launch  why websites render weirdly and apparently its a resource hog that drains my battery in the background come on mozilla you can do better
+
+Match 1:
+ sharing a tab to a clean profile fenix build doesnt display the tab after tapping the tab counter
+similarity score: 0.8915775782521221
+
+-------------------------------------------------------------------------
+review:-
+the new update removed what made firefox on android special compared to chrome firefox will always be an inferior browsing experience and the removal of desktop add on support and the other customization options took away my final reasons to use firefox without what made firefox the special browser that it was why should i use it its slower uses more battery and has inferior rendering to googles product its a shame mozilla leadership wont suffer for their incompetent direction
+
+Match 1:
+in the new firefoxbetaversion the softkeys on my tablet cannot be used  are not  displayed
+similarity score: 0.9092729391926623
+
+Match 2:
+ sharing a collection from one firefox on android to another only shares the 1st tab
+similarity score:  0.8958147007896008
+
+-------------------------------------------------------------------------
+review:-
+before this was the best now crashes often only few addons are enabled no media controls on videos drains battery and the quick navigate thing is now gone in new tabs downgrade 
+
+Match 1:
+ add new tab plus button is impossible to see in private mode when using light theme and accessibility settings ex talkback is on
+similarity score: 0.8933885970979707
+
+-------------------------------------------------------------------------
+review:-
+this new version of firefox needs fixing pages are not being rendered consistently if you temporarily open another app then return to firefox the page you were on does not show sometimes even a refresh or pressing the address bar to reenter the page doesnt work even the memory management of private tabs is not good i charged my phone which was not off then once fully charged my tabs were gone
+
+Match 1:
+ synced tabs displayed when pull to refresh if the page wasnt closed  open tabs disabled in account settings
+similarity score: 0.9148435780573754
+
+Match 2:
+ lost tabs after firefox is not responding wait or close app was displayed after restarting the app
+similarity score:  0.891924227818432
+
+-------------------------------------------------------------------------
+review:-
+hopefully not tracking so much as google chrome but crashes constantly eats battery a lot even if set as default browser some apps still use chrome or embedded android browser to open links
+
+Match 1:
+ open in app opens the chrome browser if pocket onboarding is not doneskipped
+similarity score: 0.8927998173469726
+
+-------------------------------------------------------------------------
+review:-
+more cpu and battery intensive but more versatile than chrome still i appreciate that it renders pages equally as well as a desktop browser when i tap request desktop site to be fair im using it for tasks that even i7 desktops find demanding such as multiple amazon tabs the availability of plugins such as bitwarden and ublock origin is invaluable samsung galaxy s7 ps like open in new tab shows a switch to tab briefly in the corner dislike save as is missing
+
+Match 1:
+ desktop site toggle in custom tab is really close to the desktop site text
+similarity score: 0.8934458198734083
+
+Match 2:
+ open in app opens the chrome browser if pocket onboarding is not doneskipped
+similarity score:  0.892969107316716
+
+Match 3:
+ when accessing fenix search from the widget system back or swipe back should go to the android homescreen
+similarity score:  0.8920936246707134
+
+-------------------------------------------------------------------------
+review:-
+slow and wastes battery i use firefox on my desktop but on mobile its so very slow to load pages or do anything its unusable and stressful cant copy any text i highlight which is annoying due to this feature being basic on other browsers great addons and how the tabs are laid out but speed is aweful i have tried a fresh install without addons and still very slow uninstalled and using opera instead which is very fast i can live without addons because i can open pages fast properly
+
+Match 1:
+when i installed too many addons the browsers sync function was invalid
+similarity score: 0.892192795610506
+
+-------------------------------------------------------------------------
+review:-
+battery drainer sometimes tabs will go blank requiring a force stop im a big firefox supporter but the droid app news some major work i like the layout however and the ability to use addons
+
+Match 1:
+in the new firefoxbetaversion the softkeys on my tablet cannot be used  are not  displayed
+similarity score: 0.9036022567437899
+
+Match 2:
+ the add to home screen button doesnt work on firefox nightly for android
+similarity score:  0.8957150701311197
+
+-------------------------------------------------------------------------
+review:-
+firefox is a good browser and im sad to say but its unusable due to the battery i have a samsung galaxy s8 and close out my apps when im done using them out of 96 of my battery used throughout a day firefox was responsible for 38 of it even though its usage time was about 18 minutes
+
+Match 1:
+ sharing a collection from one firefox on android to another only shares the 1st tab
+similarity score: 0.8915894576599142
+
+-------------------------------------------------------------------------
+review:-
+i use only firefox some bugs sometimes i press the go button to browse to a website after typing a url and nothing happens until i close that tab and try with a new one today long pressing links only seems to highlight textcant open in a new tab the tab interface should have a faster way to switch sometimes android warns me that firefox is draining my battery
+
+Match 1:
+ tapping android back button while editing a url takes me to home screen not back to page content
+similarity score: 0.9149946281838228
+
+Match 2:
+ jump back in website icon is missing after launching to home screen or closing a tab
+similarity score:  0.9043872138114158
+
+Match 3:
+tapping the android back button while having as current tab a ublock link closes the tab
+similarity score:  0.9015129650641113
+
+-------------------------------------------------------------------------
+review:-
+no way to import bookmarks from chrome thats dumb and ui is just not 
+great small page and active buttons difficult to press doesnt recognise 
+torrent files for downloading in utorrent lotsa little thingsand is now 
+a resource hog and battery drain
+
+Match 1:
+ clicking back on sentry socorro links opened from aboutcrashes closes the browser
+similarity score: 0.8946053983905762
+
+Match 2:
+fnx215724   pages with embedded content sometimes scroll toolbar sometimes doesnt like github
+similarity score:  0.8933173951719399
+
+total number of reviews = 367
+total number of reivews with one matching bug report = 14
+percentage = 3.8147138964577656
+total number of reivews with two matching bug reports = 8
+percentage = 2.1798365122615806
+total number of reivews with three matching bug reports = 8
+percentage = 2.1798365122615806
