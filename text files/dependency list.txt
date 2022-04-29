@@ -1,5 +1,14 @@
+Following python packages have been used:-
 1. google-play-scraper
 2. pytorch
-3. huggingface 
+3. huggingface transformers
 4. pandas
 5. numpy
+6. spacy
+7. sys
+8. csv
+9. time
+10. random
+11. tokenizations
+12. re
+13. google.colab
